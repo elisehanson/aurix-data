@@ -1,0 +1,2114 @@
+[
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Fool",
+    "card_keywords": [
+      "beginning",
+      "innocence",
+      "openness"
+    ],
+    "message": "The The Fool meets the Veil aura \u2014 a moment shaped by intuition and beginning. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Magician",
+    "card_keywords": [
+      "potential",
+      "power",
+      "creation"
+    ],
+    "message": "The The Magician meets the Veil aura \u2014 a moment shaped by intuition and potential. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The High Priestess",
+    "card_keywords": [
+      "intuition",
+      "mystery",
+      "depth"
+    ],
+    "message": "The The High Priestess meets the Veil aura \u2014 a moment shaped by intuition and intuition. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Empress",
+    "card_keywords": [
+      "nurture",
+      "abundance",
+      "creativity"
+    ],
+    "message": "The The Empress meets the Veil aura \u2014 a moment shaped by intuition and nurture. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Emperor",
+    "card_keywords": [
+      "structure",
+      "authority",
+      "protection"
+    ],
+    "message": "The The Emperor meets the Veil aura \u2014 a moment shaped by intuition and structure. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Hierophant",
+    "card_keywords": [
+      "tradition",
+      "wisdom",
+      "guidance"
+    ],
+    "message": "The The Hierophant meets the Veil aura \u2014 a moment shaped by intuition and tradition. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Lovers",
+    "card_keywords": [
+      "connection",
+      "choice",
+      "intimacy"
+    ],
+    "message": "The The Lovers meets the Veil aura \u2014 a moment shaped by intuition and connection. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Chariot",
+    "card_keywords": [
+      "willpower",
+      "motion",
+      "victory"
+    ],
+    "message": "The The Chariot meets the Veil aura \u2014 a moment shaped by intuition and willpower. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "Strength",
+    "card_keywords": [
+      "courage",
+      "patience",
+      "inner power"
+    ],
+    "message": "The Strength meets the Veil aura \u2014 a moment shaped by intuition and courage. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Hermit",
+    "card_keywords": [
+      "solitude",
+      "reflection",
+      "wisdom"
+    ],
+    "message": "The The Hermit meets the Veil aura \u2014 a moment shaped by intuition and solitude. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "Wheel of Fortune",
+    "card_keywords": [
+      "change",
+      "fate",
+      "cycles"
+    ],
+    "message": "The Wheel of Fortune meets the Veil aura \u2014 a moment shaped by intuition and change. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "Justice",
+    "card_keywords": [
+      "balance",
+      "truth",
+      "accountability"
+    ],
+    "message": "The Justice meets the Veil aura \u2014 a moment shaped by intuition and balance. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Hanged Man",
+    "card_keywords": [
+      "pause",
+      "sacrifice",
+      "perspective"
+    ],
+    "message": "The The Hanged Man meets the Veil aura \u2014 a moment shaped by intuition and pause. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "Death",
+    "card_keywords": [
+      "endings",
+      "rebirth",
+      "release"
+    ],
+    "message": "The Death meets the Veil aura \u2014 a moment shaped by intuition and endings. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "Temperance",
+    "card_keywords": [
+      "harmony",
+      "patience",
+      "moderation"
+    ],
+    "message": "The Temperance meets the Veil aura \u2014 a moment shaped by intuition and harmony. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Devil",
+    "card_keywords": [
+      "attachment",
+      "shadow",
+      "desire"
+    ],
+    "message": "The The Devil meets the Veil aura \u2014 a moment shaped by intuition and attachment. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Tower",
+    "card_keywords": [
+      "disruption",
+      "awakening",
+      "collapse"
+    ],
+    "message": "The The Tower meets the Veil aura \u2014 a moment shaped by intuition and disruption. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Star",
+    "card_keywords": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "message": "The The Star meets the Veil aura \u2014 a moment shaped by intuition and hope. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Moon",
+    "card_keywords": [
+      "illusion",
+      "emotion",
+      "intuition"
+    ],
+    "message": "The The Moon meets the Veil aura \u2014 a moment shaped by intuition and illusion. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The Sun",
+    "card_keywords": [
+      "joy",
+      "vitality",
+      "truth"
+    ],
+    "message": "The The Sun meets the Veil aura \u2014 a moment shaped by intuition and joy. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "Judgement",
+    "card_keywords": [
+      "reckoning",
+      "rebirth",
+      "clarity"
+    ],
+    "message": "The Judgement meets the Veil aura \u2014 a moment shaped by intuition and reckoning. Trust what's rising."
+  },
+  {
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": [
+      "intuition",
+      "mystery",
+      "softness"
+    ],
+    "card": "The World",
+    "card_keywords": [
+      "completion",
+      "wholeness",
+      "arrival"
+    ],
+    "message": "The The World meets the Veil aura \u2014 a moment shaped by intuition and completion. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Fool",
+    "card_keywords": [
+      "beginning",
+      "innocence",
+      "openness"
+    ],
+    "message": "The The Fool meets the Ember aura \u2014 a moment shaped by emotion and beginning. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Magician",
+    "card_keywords": [
+      "potential",
+      "power",
+      "creation"
+    ],
+    "message": "The The Magician meets the Ember aura \u2014 a moment shaped by emotion and potential. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The High Priestess",
+    "card_keywords": [
+      "intuition",
+      "mystery",
+      "depth"
+    ],
+    "message": "The The High Priestess meets the Ember aura \u2014 a moment shaped by emotion and intuition. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Empress",
+    "card_keywords": [
+      "nurture",
+      "abundance",
+      "creativity"
+    ],
+    "message": "The The Empress meets the Ember aura \u2014 a moment shaped by emotion and nurture. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Emperor",
+    "card_keywords": [
+      "structure",
+      "authority",
+      "protection"
+    ],
+    "message": "The The Emperor meets the Ember aura \u2014 a moment shaped by emotion and structure. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Hierophant",
+    "card_keywords": [
+      "tradition",
+      "wisdom",
+      "guidance"
+    ],
+    "message": "The The Hierophant meets the Ember aura \u2014 a moment shaped by emotion and tradition. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Lovers",
+    "card_keywords": [
+      "connection",
+      "choice",
+      "intimacy"
+    ],
+    "message": "The The Lovers meets the Ember aura \u2014 a moment shaped by emotion and connection. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Chariot",
+    "card_keywords": [
+      "willpower",
+      "motion",
+      "victory"
+    ],
+    "message": "The The Chariot meets the Ember aura \u2014 a moment shaped by emotion and willpower. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "Strength",
+    "card_keywords": [
+      "courage",
+      "patience",
+      "inner power"
+    ],
+    "message": "The Strength meets the Ember aura \u2014 a moment shaped by emotion and courage. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Hermit",
+    "card_keywords": [
+      "solitude",
+      "reflection",
+      "wisdom"
+    ],
+    "message": "The The Hermit meets the Ember aura \u2014 a moment shaped by emotion and solitude. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "Wheel of Fortune",
+    "card_keywords": [
+      "change",
+      "fate",
+      "cycles"
+    ],
+    "message": "The Wheel of Fortune meets the Ember aura \u2014 a moment shaped by emotion and change. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "Justice",
+    "card_keywords": [
+      "balance",
+      "truth",
+      "accountability"
+    ],
+    "message": "The Justice meets the Ember aura \u2014 a moment shaped by emotion and balance. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Hanged Man",
+    "card_keywords": [
+      "pause",
+      "sacrifice",
+      "perspective"
+    ],
+    "message": "The The Hanged Man meets the Ember aura \u2014 a moment shaped by emotion and pause. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "Death",
+    "card_keywords": [
+      "endings",
+      "rebirth",
+      "release"
+    ],
+    "message": "The Death meets the Ember aura \u2014 a moment shaped by emotion and endings. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "Temperance",
+    "card_keywords": [
+      "harmony",
+      "patience",
+      "moderation"
+    ],
+    "message": "The Temperance meets the Ember aura \u2014 a moment shaped by emotion and harmony. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Devil",
+    "card_keywords": [
+      "attachment",
+      "shadow",
+      "desire"
+    ],
+    "message": "The The Devil meets the Ember aura \u2014 a moment shaped by emotion and attachment. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Tower",
+    "card_keywords": [
+      "disruption",
+      "awakening",
+      "collapse"
+    ],
+    "message": "The The Tower meets the Ember aura \u2014 a moment shaped by emotion and disruption. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Star",
+    "card_keywords": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "message": "The The Star meets the Ember aura \u2014 a moment shaped by emotion and hope. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Moon",
+    "card_keywords": [
+      "illusion",
+      "emotion",
+      "intuition"
+    ],
+    "message": "The The Moon meets the Ember aura \u2014 a moment shaped by emotion and illusion. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The Sun",
+    "card_keywords": [
+      "joy",
+      "vitality",
+      "truth"
+    ],
+    "message": "The The Sun meets the Ember aura \u2014 a moment shaped by emotion and joy. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "Judgement",
+    "card_keywords": [
+      "reckoning",
+      "rebirth",
+      "clarity"
+    ],
+    "message": "The Judgement meets the Ember aura \u2014 a moment shaped by emotion and reckoning. Trust what's rising."
+  },
+  {
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": [
+      "emotion",
+      "transformation",
+      "release"
+    ],
+    "card": "The World",
+    "card_keywords": [
+      "completion",
+      "wholeness",
+      "arrival"
+    ],
+    "message": "The The World meets the Ember aura \u2014 a moment shaped by emotion and completion. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Fool",
+    "card_keywords": [
+      "beginning",
+      "innocence",
+      "openness"
+    ],
+    "message": "The The Fool meets the Lumen aura \u2014 a moment shaped by clarity and beginning. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Magician",
+    "card_keywords": [
+      "potential",
+      "power",
+      "creation"
+    ],
+    "message": "The The Magician meets the Lumen aura \u2014 a moment shaped by clarity and potential. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The High Priestess",
+    "card_keywords": [
+      "intuition",
+      "mystery",
+      "depth"
+    ],
+    "message": "The The High Priestess meets the Lumen aura \u2014 a moment shaped by clarity and intuition. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Empress",
+    "card_keywords": [
+      "nurture",
+      "abundance",
+      "creativity"
+    ],
+    "message": "The The Empress meets the Lumen aura \u2014 a moment shaped by clarity and nurture. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Emperor",
+    "card_keywords": [
+      "structure",
+      "authority",
+      "protection"
+    ],
+    "message": "The The Emperor meets the Lumen aura \u2014 a moment shaped by clarity and structure. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Hierophant",
+    "card_keywords": [
+      "tradition",
+      "wisdom",
+      "guidance"
+    ],
+    "message": "The The Hierophant meets the Lumen aura \u2014 a moment shaped by clarity and tradition. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Lovers",
+    "card_keywords": [
+      "connection",
+      "choice",
+      "intimacy"
+    ],
+    "message": "The The Lovers meets the Lumen aura \u2014 a moment shaped by clarity and connection. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Chariot",
+    "card_keywords": [
+      "willpower",
+      "motion",
+      "victory"
+    ],
+    "message": "The The Chariot meets the Lumen aura \u2014 a moment shaped by clarity and willpower. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "Strength",
+    "card_keywords": [
+      "courage",
+      "patience",
+      "inner power"
+    ],
+    "message": "The Strength meets the Lumen aura \u2014 a moment shaped by clarity and courage. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Hermit",
+    "card_keywords": [
+      "solitude",
+      "reflection",
+      "wisdom"
+    ],
+    "message": "The The Hermit meets the Lumen aura \u2014 a moment shaped by clarity and solitude. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "Wheel of Fortune",
+    "card_keywords": [
+      "change",
+      "fate",
+      "cycles"
+    ],
+    "message": "The Wheel of Fortune meets the Lumen aura \u2014 a moment shaped by clarity and change. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "Justice",
+    "card_keywords": [
+      "balance",
+      "truth",
+      "accountability"
+    ],
+    "message": "The Justice meets the Lumen aura \u2014 a moment shaped by clarity and balance. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Hanged Man",
+    "card_keywords": [
+      "pause",
+      "sacrifice",
+      "perspective"
+    ],
+    "message": "The The Hanged Man meets the Lumen aura \u2014 a moment shaped by clarity and pause. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "Death",
+    "card_keywords": [
+      "endings",
+      "rebirth",
+      "release"
+    ],
+    "message": "The Death meets the Lumen aura \u2014 a moment shaped by clarity and endings. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "Temperance",
+    "card_keywords": [
+      "harmony",
+      "patience",
+      "moderation"
+    ],
+    "message": "The Temperance meets the Lumen aura \u2014 a moment shaped by clarity and harmony. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Devil",
+    "card_keywords": [
+      "attachment",
+      "shadow",
+      "desire"
+    ],
+    "message": "The The Devil meets the Lumen aura \u2014 a moment shaped by clarity and attachment. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Tower",
+    "card_keywords": [
+      "disruption",
+      "awakening",
+      "collapse"
+    ],
+    "message": "The The Tower meets the Lumen aura \u2014 a moment shaped by clarity and disruption. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Star",
+    "card_keywords": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "message": "The The Star meets the Lumen aura \u2014 a moment shaped by clarity and hope. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Moon",
+    "card_keywords": [
+      "illusion",
+      "emotion",
+      "intuition"
+    ],
+    "message": "The The Moon meets the Lumen aura \u2014 a moment shaped by clarity and illusion. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The Sun",
+    "card_keywords": [
+      "joy",
+      "vitality",
+      "truth"
+    ],
+    "message": "The The Sun meets the Lumen aura \u2014 a moment shaped by clarity and joy. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "Judgement",
+    "card_keywords": [
+      "reckoning",
+      "rebirth",
+      "clarity"
+    ],
+    "message": "The Judgement meets the Lumen aura \u2014 a moment shaped by clarity and reckoning. Trust what's rising."
+  },
+  {
+    "aura_id": "lumen",
+    "aura_label": "Lumen",
+    "aura_keywords": [
+      "clarity",
+      "warmth",
+      "presence"
+    ],
+    "card": "The World",
+    "card_keywords": [
+      "completion",
+      "wholeness",
+      "arrival"
+    ],
+    "message": "The The World meets the Lumen aura \u2014 a moment shaped by clarity and completion. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Fool",
+    "card_keywords": [
+      "beginning",
+      "innocence",
+      "openness"
+    ],
+    "message": "The The Fool meets the Void aura \u2014 a moment shaped by stillness and beginning. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Magician",
+    "card_keywords": [
+      "potential",
+      "power",
+      "creation"
+    ],
+    "message": "The The Magician meets the Void aura \u2014 a moment shaped by stillness and potential. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The High Priestess",
+    "card_keywords": [
+      "intuition",
+      "mystery",
+      "depth"
+    ],
+    "message": "The The High Priestess meets the Void aura \u2014 a moment shaped by stillness and intuition. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Empress",
+    "card_keywords": [
+      "nurture",
+      "abundance",
+      "creativity"
+    ],
+    "message": "The The Empress meets the Void aura \u2014 a moment shaped by stillness and nurture. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Emperor",
+    "card_keywords": [
+      "structure",
+      "authority",
+      "protection"
+    ],
+    "message": "The The Emperor meets the Void aura \u2014 a moment shaped by stillness and structure. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Hierophant",
+    "card_keywords": [
+      "tradition",
+      "wisdom",
+      "guidance"
+    ],
+    "message": "The The Hierophant meets the Void aura \u2014 a moment shaped by stillness and tradition. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Lovers",
+    "card_keywords": [
+      "connection",
+      "choice",
+      "intimacy"
+    ],
+    "message": "The The Lovers meets the Void aura \u2014 a moment shaped by stillness and connection. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Chariot",
+    "card_keywords": [
+      "willpower",
+      "motion",
+      "victory"
+    ],
+    "message": "The The Chariot meets the Void aura \u2014 a moment shaped by stillness and willpower. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "Strength",
+    "card_keywords": [
+      "courage",
+      "patience",
+      "inner power"
+    ],
+    "message": "The Strength meets the Void aura \u2014 a moment shaped by stillness and courage. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Hermit",
+    "card_keywords": [
+      "solitude",
+      "reflection",
+      "wisdom"
+    ],
+    "message": "The The Hermit meets the Void aura \u2014 a moment shaped by stillness and solitude. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "Wheel of Fortune",
+    "card_keywords": [
+      "change",
+      "fate",
+      "cycles"
+    ],
+    "message": "The Wheel of Fortune meets the Void aura \u2014 a moment shaped by stillness and change. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "Justice",
+    "card_keywords": [
+      "balance",
+      "truth",
+      "accountability"
+    ],
+    "message": "The Justice meets the Void aura \u2014 a moment shaped by stillness and balance. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Hanged Man",
+    "card_keywords": [
+      "pause",
+      "sacrifice",
+      "perspective"
+    ],
+    "message": "The The Hanged Man meets the Void aura \u2014 a moment shaped by stillness and pause. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "Death",
+    "card_keywords": [
+      "endings",
+      "rebirth",
+      "release"
+    ],
+    "message": "The Death meets the Void aura \u2014 a moment shaped by stillness and endings. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "Temperance",
+    "card_keywords": [
+      "harmony",
+      "patience",
+      "moderation"
+    ],
+    "message": "The Temperance meets the Void aura \u2014 a moment shaped by stillness and harmony. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Devil",
+    "card_keywords": [
+      "attachment",
+      "shadow",
+      "desire"
+    ],
+    "message": "The The Devil meets the Void aura \u2014 a moment shaped by stillness and attachment. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Tower",
+    "card_keywords": [
+      "disruption",
+      "awakening",
+      "collapse"
+    ],
+    "message": "The The Tower meets the Void aura \u2014 a moment shaped by stillness and disruption. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Star",
+    "card_keywords": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "message": "The The Star meets the Void aura \u2014 a moment shaped by stillness and hope. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Moon",
+    "card_keywords": [
+      "illusion",
+      "emotion",
+      "intuition"
+    ],
+    "message": "The The Moon meets the Void aura \u2014 a moment shaped by stillness and illusion. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The Sun",
+    "card_keywords": [
+      "joy",
+      "vitality",
+      "truth"
+    ],
+    "message": "The The Sun meets the Void aura \u2014 a moment shaped by stillness and joy. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "Judgement",
+    "card_keywords": [
+      "reckoning",
+      "rebirth",
+      "clarity"
+    ],
+    "message": "The Judgement meets the Void aura \u2014 a moment shaped by stillness and reckoning. Trust what's rising."
+  },
+  {
+    "aura_id": "void",
+    "aura_label": "Void",
+    "aura_keywords": [
+      "stillness",
+      "unknowing",
+      "depth"
+    ],
+    "card": "The World",
+    "card_keywords": [
+      "completion",
+      "wholeness",
+      "arrival"
+    ],
+    "message": "The The World meets the Void aura \u2014 a moment shaped by stillness and completion. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Fool",
+    "card_keywords": [
+      "beginning",
+      "innocence",
+      "openness"
+    ],
+    "message": "The The Fool meets the Root aura \u2014 a moment shaped by grounding and beginning. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Magician",
+    "card_keywords": [
+      "potential",
+      "power",
+      "creation"
+    ],
+    "message": "The The Magician meets the Root aura \u2014 a moment shaped by grounding and potential. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The High Priestess",
+    "card_keywords": [
+      "intuition",
+      "mystery",
+      "depth"
+    ],
+    "message": "The The High Priestess meets the Root aura \u2014 a moment shaped by grounding and intuition. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Empress",
+    "card_keywords": [
+      "nurture",
+      "abundance",
+      "creativity"
+    ],
+    "message": "The The Empress meets the Root aura \u2014 a moment shaped by grounding and nurture. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Emperor",
+    "card_keywords": [
+      "structure",
+      "authority",
+      "protection"
+    ],
+    "message": "The The Emperor meets the Root aura \u2014 a moment shaped by grounding and structure. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Hierophant",
+    "card_keywords": [
+      "tradition",
+      "wisdom",
+      "guidance"
+    ],
+    "message": "The The Hierophant meets the Root aura \u2014 a moment shaped by grounding and tradition. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Lovers",
+    "card_keywords": [
+      "connection",
+      "choice",
+      "intimacy"
+    ],
+    "message": "The The Lovers meets the Root aura \u2014 a moment shaped by grounding and connection. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Chariot",
+    "card_keywords": [
+      "willpower",
+      "motion",
+      "victory"
+    ],
+    "message": "The The Chariot meets the Root aura \u2014 a moment shaped by grounding and willpower. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "Strength",
+    "card_keywords": [
+      "courage",
+      "patience",
+      "inner power"
+    ],
+    "message": "The Strength meets the Root aura \u2014 a moment shaped by grounding and courage. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Hermit",
+    "card_keywords": [
+      "solitude",
+      "reflection",
+      "wisdom"
+    ],
+    "message": "The The Hermit meets the Root aura \u2014 a moment shaped by grounding and solitude. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "Wheel of Fortune",
+    "card_keywords": [
+      "change",
+      "fate",
+      "cycles"
+    ],
+    "message": "The Wheel of Fortune meets the Root aura \u2014 a moment shaped by grounding and change. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "Justice",
+    "card_keywords": [
+      "balance",
+      "truth",
+      "accountability"
+    ],
+    "message": "The Justice meets the Root aura \u2014 a moment shaped by grounding and balance. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Hanged Man",
+    "card_keywords": [
+      "pause",
+      "sacrifice",
+      "perspective"
+    ],
+    "message": "The The Hanged Man meets the Root aura \u2014 a moment shaped by grounding and pause. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "Death",
+    "card_keywords": [
+      "endings",
+      "rebirth",
+      "release"
+    ],
+    "message": "The Death meets the Root aura \u2014 a moment shaped by grounding and endings. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "Temperance",
+    "card_keywords": [
+      "harmony",
+      "patience",
+      "moderation"
+    ],
+    "message": "The Temperance meets the Root aura \u2014 a moment shaped by grounding and harmony. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Devil",
+    "card_keywords": [
+      "attachment",
+      "shadow",
+      "desire"
+    ],
+    "message": "The The Devil meets the Root aura \u2014 a moment shaped by grounding and attachment. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Tower",
+    "card_keywords": [
+      "disruption",
+      "awakening",
+      "collapse"
+    ],
+    "message": "The The Tower meets the Root aura \u2014 a moment shaped by grounding and disruption. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Star",
+    "card_keywords": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "message": "The The Star meets the Root aura \u2014 a moment shaped by grounding and hope. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Moon",
+    "card_keywords": [
+      "illusion",
+      "emotion",
+      "intuition"
+    ],
+    "message": "The The Moon meets the Root aura \u2014 a moment shaped by grounding and illusion. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The Sun",
+    "card_keywords": [
+      "joy",
+      "vitality",
+      "truth"
+    ],
+    "message": "The The Sun meets the Root aura \u2014 a moment shaped by grounding and joy. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "Judgement",
+    "card_keywords": [
+      "reckoning",
+      "rebirth",
+      "clarity"
+    ],
+    "message": "The Judgement meets the Root aura \u2014 a moment shaped by grounding and reckoning. Trust what's rising."
+  },
+  {
+    "aura_id": "root",
+    "aura_label": "Root",
+    "aura_keywords": [
+      "grounding",
+      "resilience",
+      "stability"
+    ],
+    "card": "The World",
+    "card_keywords": [
+      "completion",
+      "wholeness",
+      "arrival"
+    ],
+    "message": "The The World meets the Root aura \u2014 a moment shaped by grounding and completion. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Fool",
+    "card_keywords": [
+      "beginning",
+      "innocence",
+      "openness"
+    ],
+    "message": "The The Fool meets the Drift aura \u2014 a moment shaped by flow and beginning. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Magician",
+    "card_keywords": [
+      "potential",
+      "power",
+      "creation"
+    ],
+    "message": "The The Magician meets the Drift aura \u2014 a moment shaped by flow and potential. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The High Priestess",
+    "card_keywords": [
+      "intuition",
+      "mystery",
+      "depth"
+    ],
+    "message": "The The High Priestess meets the Drift aura \u2014 a moment shaped by flow and intuition. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Empress",
+    "card_keywords": [
+      "nurture",
+      "abundance",
+      "creativity"
+    ],
+    "message": "The The Empress meets the Drift aura \u2014 a moment shaped by flow and nurture. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Emperor",
+    "card_keywords": [
+      "structure",
+      "authority",
+      "protection"
+    ],
+    "message": "The The Emperor meets the Drift aura \u2014 a moment shaped by flow and structure. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Hierophant",
+    "card_keywords": [
+      "tradition",
+      "wisdom",
+      "guidance"
+    ],
+    "message": "The The Hierophant meets the Drift aura \u2014 a moment shaped by flow and tradition. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Lovers",
+    "card_keywords": [
+      "connection",
+      "choice",
+      "intimacy"
+    ],
+    "message": "The The Lovers meets the Drift aura \u2014 a moment shaped by flow and connection. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Chariot",
+    "card_keywords": [
+      "willpower",
+      "motion",
+      "victory"
+    ],
+    "message": "The The Chariot meets the Drift aura \u2014 a moment shaped by flow and willpower. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "Strength",
+    "card_keywords": [
+      "courage",
+      "patience",
+      "inner power"
+    ],
+    "message": "The Strength meets the Drift aura \u2014 a moment shaped by flow and courage. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Hermit",
+    "card_keywords": [
+      "solitude",
+      "reflection",
+      "wisdom"
+    ],
+    "message": "The The Hermit meets the Drift aura \u2014 a moment shaped by flow and solitude. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "Wheel of Fortune",
+    "card_keywords": [
+      "change",
+      "fate",
+      "cycles"
+    ],
+    "message": "The Wheel of Fortune meets the Drift aura \u2014 a moment shaped by flow and change. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "Justice",
+    "card_keywords": [
+      "balance",
+      "truth",
+      "accountability"
+    ],
+    "message": "The Justice meets the Drift aura \u2014 a moment shaped by flow and balance. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Hanged Man",
+    "card_keywords": [
+      "pause",
+      "sacrifice",
+      "perspective"
+    ],
+    "message": "The The Hanged Man meets the Drift aura \u2014 a moment shaped by flow and pause. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "Death",
+    "card_keywords": [
+      "endings",
+      "rebirth",
+      "release"
+    ],
+    "message": "The Death meets the Drift aura \u2014 a moment shaped by flow and endings. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "Temperance",
+    "card_keywords": [
+      "harmony",
+      "patience",
+      "moderation"
+    ],
+    "message": "The Temperance meets the Drift aura \u2014 a moment shaped by flow and harmony. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Devil",
+    "card_keywords": [
+      "attachment",
+      "shadow",
+      "desire"
+    ],
+    "message": "The The Devil meets the Drift aura \u2014 a moment shaped by flow and attachment. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Tower",
+    "card_keywords": [
+      "disruption",
+      "awakening",
+      "collapse"
+    ],
+    "message": "The The Tower meets the Drift aura \u2014 a moment shaped by flow and disruption. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Star",
+    "card_keywords": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "message": "The The Star meets the Drift aura \u2014 a moment shaped by flow and hope. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Moon",
+    "card_keywords": [
+      "illusion",
+      "emotion",
+      "intuition"
+    ],
+    "message": "The The Moon meets the Drift aura \u2014 a moment shaped by flow and illusion. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The Sun",
+    "card_keywords": [
+      "joy",
+      "vitality",
+      "truth"
+    ],
+    "message": "The The Sun meets the Drift aura \u2014 a moment shaped by flow and joy. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "Judgement",
+    "card_keywords": [
+      "reckoning",
+      "rebirth",
+      "clarity"
+    ],
+    "message": "The Judgement meets the Drift aura \u2014 a moment shaped by flow and reckoning. Trust what's rising."
+  },
+  {
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": [
+      "flow",
+      "surrender",
+      "dream"
+    ],
+    "card": "The World",
+    "card_keywords": [
+      "completion",
+      "wholeness",
+      "arrival"
+    ],
+    "message": "The The World meets the Drift aura \u2014 a moment shaped by flow and completion. Trust what's rising."
+  }
+]
