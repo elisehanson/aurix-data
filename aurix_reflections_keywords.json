@@ -1,2114 +1,1190 @@
 [
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Fool",
-    "card_keywords": [
-      "beginning",
-      "innocence",
-      "openness"
-    ],
-    "message": "The The Fool meets the Veil aura \u2014 a moment shaped by intuition and beginning. Trust what's rising."
+    "card_keywords": ["wide-eyed wonder", "reckless innocence", "spontaneity", "faith", "freedom", "potential"],
+    "message": "You find yourself wandering without a map, but that’s exactly where you need to be. Drift and The Fool create a perfect breeze for a new adventure. There’s innocence in your open-hearted meandering and a faith that the winds will carry you right. In this moment, it's okay to leap without knowing where you'll land."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Magician",
-    "card_keywords": [
-      "potential",
-      "power",
-      "creation"
-    ],
-    "message": "The The Magician meets the Veil aura \u2014 a moment shaped by intuition and potential. Trust what's rising."
+    "card_keywords": ["creative will", "focused intention", "resourcefulness", "confidence", "alchemy", "manifestation"],
+    "message": "Your mind may be wandering, but magic is stirring in those daydreams. Drift and The Magician conjure creative power from your gentle flow. You have all the tools before you, even if they seem to appear by coincidence in your unplanned path. Trust that what feels like aimless drifting can actually become a beautiful act of creation."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The High Priestess",
-    "card_keywords": [
-      "intuition",
-      "mystery",
-      "depth"
-    ],
-    "message": "The The High Priestess meets the Veil aura \u2014 a moment shaped by intuition and intuition. Trust what's rising."
+    "card_keywords": ["intuition", "inner knowing", "mystery", "hidden truth", "serenity", "sacred feminine"],
+    "message": "Lately you’ve been daydreaming through life’s moments, and there’s wisdom in that quiet drift. Drift and The High Priestess draw you into the gentle current of your subconscious. In the silence of your wandering mind, intuitive insights surface like stars reflected on water. Trust the subtle feelings that emerge now—your inner voice is speaking in whispers and hunches."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Empress",
-    "card_keywords": [
-      "nurture",
-      "abundance",
-      "creativity"
-    ],
-    "message": "The The Empress meets the Veil aura \u2014 a moment shaped by intuition and nurture. Trust what's rising."
+    "card_keywords": ["nurturing", "fertility", "abundance", "sensuality", "creativity", "warmth"],
+    "message": "Lately you've been drifting along, but now the world around you is inviting you to take root and flourish. Drift and The Empress together suggest it's time to softly land and nurture what you've been dreaming about. There's a gentle abundance waiting for you when you allow yourself to be present—like flowers opening slowly in your hands. Embrace the comfort of the moment; you're safe to feel and grow here."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Emperor",
-    "card_keywords": [
-      "structure",
-      "authority",
-      "protection"
-    ],
-    "message": "The The Emperor meets the Veil aura \u2014 a moment shaped by intuition and structure. Trust what's rising."
+    "card_keywords": ["authority", "structure", "stability", "discipline", "protection", "ambition"],
+    "message": "You've been floating free for a while, but now a steady hand is coming to guide you. Drift and The Emperor suggest balancing your openness with a bit of structure. Imagine a gentle anchor dropping to keep you from wandering too far off course. You don’t have to lose your freedom; you're just finding a safe harbor for your dreams so they can grow solid."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Hierophant",
-    "card_keywords": [
-      "tradition",
-      "wisdom",
-      "guidance"
-    ],
-    "message": "The The Hierophant meets the Veil aura \u2014 a moment shaped by intuition and tradition. Trust what's rising."
+    "card_keywords": ["tradition", "guidance", "wisdom", "conformity", "ritual", "faith"],
+    "message": "You've been going with the flow, but you might benefit from a little tradition or spiritual anchor now. Drift and The Hierophant bring together free spirit and sacred ritual. Consider leaning into a practice or wisdom that has stood the test of time—it could give meaning to your wanderings. Even as you drift, an ancient guide or routine can provide gentle direction when you need it."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Lovers",
-    "card_keywords": [
-      "connection",
-      "choice",
-      "intimacy"
-    ],
-    "message": "The The Lovers meets the Veil aura \u2014 a moment shaped by intuition and connection. Trust what's rising."
+    "card_keywords": ["love", "partnership", "harmony", "desire", "choice", "alignment"],
+    "message": "You’ve been drifting through feelings, letting connections come and go like the tide. Drift and The Lovers now ask you to gently choose what (or who) truly resonates with your heart. Love doesn’t have to pin you down, but it does invite you to be present and vulnerable. Let yourself float closer to the ones you care about—real harmony comes when you give your open heart a direction."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Chariot",
-    "card_keywords": [
-      "willpower",
-      "motion",
-      "victory"
-    ],
-    "message": "The The Chariot meets the Veil aura \u2014 a moment shaped by intuition and willpower. Trust what's rising."
+    "card_keywords": ["determination", "victory", "momentum", "focus", "drive", "control"],
+    "message": "You’ve been drifting with the currents, but now a powerful force is urging you forward. Drift and The Chariot signal that it's time to take the reins without losing your flow. You can steer your life and still ride the waves—willpower and surrender working together. Find that sweet spot between aimless wandering and determined drive; you're headed toward something meaningful at last."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "Strength",
-    "card_keywords": [
-      "courage",
-      "patience",
-      "inner power"
-    ],
-    "message": "The Strength meets the Veil aura \u2014 a moment shaped by intuition and courage. Trust what's rising."
+    "card_keywords": ["courage", "compassion", "inner strength", "patience", "gentleness", "resilience"],
+    "message": "You might feel like you're just floating through struggles, but that's part of your strength. Drift and Strength show that gentle persistence can tame the wildest storms. You don't need brute force to overcome what's in front of you; patience and compassion are your secret powers. Trust your soft approach—it’s stronger than it looks, and it will carry you through."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Hermit",
-    "card_keywords": [
-      "solitude",
-      "reflection",
-      "wisdom"
-    ],
-    "message": "The The Hermit meets the Veil aura \u2014 a moment shaped by intuition and solitude. Trust what's rising."
+    "card_keywords": ["solitude", "introspection", "wisdom", "guidance", "reflection", "inner light"],
+    "message": "You've been drifting into your own little world lately, and that's alright. Drift and The Hermit lead you to precious insights in solitude. In the quiet of your gentle wandering, a lantern of wisdom glows just for you. Embrace this introspective journey—sometimes getting a little lost is how you find yourself."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "Wheel of Fortune",
-    "card_keywords": [
-      "change",
-      "fate",
-      "cycles"
-    ],
-    "message": "The Wheel of Fortune meets the Veil aura \u2014 a moment shaped by intuition and change. Trust what's rising."
+    "card_keywords": ["destiny", "change", "cycles", "fate", "chance", "turning point"],
+    "message": "You've been drifting along, and suddenly the tides are turning beneath you. Drift and Wheel of Fortune show that life’s currents are shifting, carrying you somewhere new. Instead of fighting it, trust where the waves of fate are taking you. Every cycle has its purpose—ride this change with an open heart and you'll find unexpected fortune in the flow."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "Justice",
-    "card_keywords": [
-      "balance",
-      "truth",
-      "accountability"
-    ],
-    "message": "The Justice meets the Veil aura \u2014 a moment shaped by intuition and balance. Trust what's rising."
+    "card_keywords": ["fairness", "truth", "balance", "karma", "accountability", "integrity"],
+    "message": "You’ve been drifting around a decision or truth, hoping it would just sort itself out. Drift and Justice insist on bringing you gently back to balance. It's time to weigh your heart’s truth against reality—no more floating away from what’s fair and right. Find your center; when you align with integrity, life will feel more in tune and your conscience lighter."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Hanged Man",
-    "card_keywords": [
-      "pause",
-      "sacrifice",
-      "perspective"
-    ],
-    "message": "The The Hanged Man meets the Veil aura \u2014 a moment shaped by intuition and pause. Trust what's rising."
+    "card_keywords": ["surrender", "letting go", "patience", "new perspective", "sacrifice", "acceptance"],
+    "message": "You may feel like you're just drifting in limbo, and that's perfectly alright for now. Drift and The Hanged Man ask you to surrender to this pause. From this unhurried vantage point, you're starting to see life from a new perspective—like looking up at the sky while floating on your back. Let go of the need to control the current; insight and peace will come when you embrace the suspension."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "Death",
-    "card_keywords": [
-      "endings",
-      "rebirth",
-      "release"
-    ],
-    "message": "The Death meets the Veil aura \u2014 a moment shaped by intuition and endings. Trust what's rising."
+    "card_keywords": ["transformation", "ending", "rebirth", "letting go", "inevitable change", "transition"],
+    "message": "You've been drifting away from something in your life, and it's okay to let it finally fade. Drift and Death together suggest a gentle goodbye, a transformation that feels like a quiet exhale. Endings don’t always have to be sudden; this one is like a leaf floating down from a tree, natural and needed. Trust that by letting go, you’re making space for a new current to carry you toward another beginning."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "Temperance",
-    "card_keywords": [
-      "harmony",
-      "patience",
-      "moderation"
-    ],
-    "message": "The Temperance meets the Veil aura \u2014 a moment shaped by intuition and harmony. Trust what's rising."
+    "card_keywords": ["balance", "moderation", "harmony", "healing", "patience", "blending"],
+    "message": "You've been going with the flow, and now it's time to gently guide that flow into balance. Drift and Temperance help you mix ease with intention. Imagine blending two currents into one harmonious stream—your feelings and actions finding the middle path. Continue moving softly, but with a bit of direction; you'll discover a beautiful equilibrium that heals and refreshes you."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Devil",
-    "card_keywords": [
-      "attachment",
-      "shadow",
-      "desire"
-    ],
-    "message": "The The Devil meets the Veil aura \u2014 a moment shaped by intuition and attachment. Trust what's rising."
+    "card_keywords": ["temptation", "addiction", "materialism", "desire", "bondage", "shadow self"],
+    "message": "You've been coasting along, but beware of where the current is taking you. Drift and The Devil warn that it’s easy to slide into an unhealthy pattern without noticing. Maybe you've been escaping or numbing out, gently floating into a trap set by your own fears or desires. Wake up and grab the oars—by becoming aware of what's holding you, you can steer yourself away from what doesn't serve you."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Tower",
-    "card_keywords": [
-      "disruption",
-      "awakening",
-      "collapse"
-    ],
-    "message": "The The Tower meets the Veil aura \u2014 a moment shaped by intuition and disruption. Trust what's rising."
+    "card_keywords": ["upheaval", "revelation", "chaos", "collapse", "awakening", "breakdown"],
+    "message": "You've been drifting peacefully, and out of nowhere comes a storm shaking your world. Drift and The Tower illustrate the contrast between calm and upheaval. It’s a jarring wake-up call—like a bolt of lightning in a clear sky—but maybe it’s exactly what was needed to break you free from stagnation. Though sudden change rattles you, trust that it’s clearing the way; after the wreckage, calm waters will return and carry you somewhere new."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Star",
-    "card_keywords": [
-      "hope",
-      "healing",
-      "renewal"
-    ],
-    "message": "The The Star meets the Veil aura \u2014 a moment shaped by intuition and hope. Trust what's rising."
+    "card_keywords": ["hope", "guidance", "inspiration", "serenity", "healing", "faith"],
+    "message": "You've been drifting under night skies, maybe feeling a little lost. Drift and The Star bring gentle hope like starlight guiding you in the darkness. Even without a clear direction, there's a spark of faith shimmering above you. Relax and trust the calm after the storm—you're healing, and those distant dreams are slowly lighting the way forward."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Moon",
-    "card_keywords": [
-      "illusion",
-      "emotion",
-      "intuition"
-    ],
-    "message": "The The Moon meets the Veil aura \u2014 a moment shaped by intuition and illusion. Trust what's rising."
+    "card_keywords": ["mystery", "intuition", "soft fear", "shadow", "depth", "fluidity"],
+    "message": "You’re wandering through a hazy twilight of your life right now. Drift and The Moon envelop you in mystery and uncertainty. It's okay not to see the whole path; sometimes just feeling your way through the mist is enough. Your intuition is your north star in this fog—trust those subtle senses and know that even in confusion, magic is quietly at work."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The Sun",
-    "card_keywords": [
-      "joy",
-      "vitality",
-      "truth"
-    ],
-    "message": "The The Sun meets the Veil aura \u2014 a moment shaped by intuition and joy. Trust what's rising."
+    "card_keywords": ["joy", "positivity", "success", "vitality", "clarity", "warmth"],
+    "message": "You've been floating wherever life took you, and now suddenly the sun is out and everything is clear. Drift and The Sun bring a carefree, joyful energy. The confusion burns away under this warm light, and you're left with simple, radiant truth. Enjoy this moment of clarity and happiness—you’re exactly where you’re meant to be, basking in the glow of your own life."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
-    "card": "Judgement",
-    "card_keywords": [
-      "reckoning",
-      "rebirth",
-      "clarity"
-    ],
-    "message": "The Judgement meets the Veil aura \u2014 a moment shaped by intuition and reckoning. Trust what's rising."
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
+    "card": "Judgment",
+    "card_keywords": ["awakening", "rebirth", "reckoning", "forgiveness", "inner calling", "liberation"],
+    "message": "You’ve been drifting through days, but a wake-up call is echoing in your soul now. Drift and Judgment signal the end of an aimless chapter. You are hearing a gentle but firm summons to step into a new phase of life, to rise to your purpose. Don't worry if you don't have every detail—just trust that inner call and let it guide you to the shore, reborn and ready."
   },
   {
-    "aura_id": "veil",
-    "aura_label": "Veil",
-    "aura_keywords": [
-      "intuition",
-      "mystery",
-      "softness"
-    ],
+    "aura_id": "drift",
+    "aura_label": "Drift",
+    "aura_keywords": ["dreamy", "unmoored", "open", "soft"],
+    "aura_description": "You float through life like a feather on a breeze, unbound and quietly observant.",
     "card": "The World",
-    "card_keywords": [
-      "completion",
-      "wholeness",
-      "arrival"
-    ],
-    "message": "The The World meets the Veil aura \u2014 a moment shaped by intuition and completion. Trust what's rising."
+    "card_keywords": ["completion", "wholeness", "fulfillment", "unity", "achievement", "integration"],
+    "message": "You've wandered far and wide, and now you’re coming full circle. Drift and The World celebrate the journey that has made you whole. All those seemingly aimless meanderings were leading you here—to a sense of completion and understanding. Take a moment to float in this fulfillment; you are exactly where you need to be, feeling the unity of all the pieces of your story."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Fool",
-    "card_keywords": [
-      "beginning",
-      "innocence",
-      "openness"
-    ],
-    "message": "The The Fool meets the Ember aura \u2014 a moment shaped by emotion and beginning. Trust what's rising."
+    "card_keywords": ["wide-eyed wonder", "reckless innocence", "spontaneity", "faith", "freedom", "potential"],
+    "message": "You might be hesitating behind your veil of caution, but a new chapter calls out to you. The Fool in your midst urges you to trust the unknown. Even shrouded in uncertainty, your intuition knows when it’s time to take a chance. Dare to lift the curtain and let yourself free-fall into something new."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Magician",
-    "card_keywords": [
-      "potential",
-      "power",
-      "creation"
-    ],
-    "message": "The The Magician meets the Ember aura \u2014 a moment shaped by emotion and potential. Trust what's rising."
+    "card_keywords": ["creative will", "focused intention", "resourcefulness", "confidence", "alchemy", "manifestation"],
+    "message": "Behind your quiet exterior, you’re brewing something powerful. Veil and The Magician combine intuition with willpower, giving you the ability to manifest your inner visions. Even if you keep your cards close, the energy to create is gathering in secret. Step forward with a subtle confidence—what you envision in the dark can shine into reality."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The High Priestess",
-    "card_keywords": [
-      "intuition",
-      "mystery",
-      "depth"
-    ],
-    "message": "The The High Priestess meets the Ember aura \u2014 a moment shaped by emotion and intuition. Trust what's rising."
+    "card_keywords": ["intuition", "inner knowing", "mystery", "hidden truth", "serenity", "sacred feminine"],
+    "message": "Your mysterious aura is perfectly at home in the High Priestess’s realm. Veil and The High Priestess together form a sanctuary of secrets and intuition. You may feel extra tuned in to the unspoken things right now, sensing truths that lie beneath the surface. Embrace this quiet knowing—behind the veil, your inner goddess is guiding you."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Empress",
-    "card_keywords": [
-      "nurture",
-      "abundance",
-      "creativity"
-    ],
-    "message": "The The Empress meets the Ember aura \u2014 a moment shaped by emotion and nurture. Trust what's rising."
+    "card_keywords": ["nurturing", "fertility", "abundance", "sensuality", "creativity", "warmth"],
+    "message": "You've been keeping yourself guarded, but love and creativity are trying to bloom through the cracks. Veil and The Empress unite the mystical with the natural, urging you to trust the beauty you have inside. Even if you hide behind a curtain of reserve, your heart longs to nurture and be nurtured. Let a bit of warmth slip through your defenses—you're allowed to feel abundant and loved."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Emperor",
-    "card_keywords": [
-      "structure",
-      "authority",
-      "protection"
-    ],
-    "message": "The The Emperor meets the Ember aura \u2014 a moment shaped by emotion and structure. Trust what's rising."
+    "card_keywords": ["authority", "structure", "stability", "discipline", "protection", "ambition"],
+    "message": "You tend to move in the shadows, but there's a quiet strength in you that’s ready to take charge. Veil and The Emperor show that wisdom can rule from behind the scenes. You can establish order in your life without losing your mysterious touch. Stand tall in your own way—your inner authority is as gentle or as fierce as you need it to be."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Hierophant",
-    "card_keywords": [
-      "tradition",
-      "wisdom",
-      "guidance"
-    ],
-    "message": "The The Hierophant meets the Ember aura \u2014 a moment shaped by emotion and tradition. Trust what's rising."
+    "card_keywords": ["tradition", "guidance", "wisdom", "conformity", "ritual", "faith"],
+    "message": "You hold many secrets close, but there's wisdom in sharing or seeking guidance from a trusted source. Veil and The Hierophant blend private insight with traditional wisdom. Not everything has to be figured out alone; a mentor, a teacher, or a spiritual tradition might resonate now. It's okay to peek out from behind the curtain and find solace in something greater that has always been there to guide you."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Lovers",
-    "card_keywords": [
-      "connection",
-      "choice",
-      "intimacy"
-    ],
-    "message": "The The Lovers meets the Ember aura \u2014 a moment shaped by emotion and connection. Trust what's rising."
+    "card_keywords": ["love", "partnership", "harmony", "desire", "choice", "alignment"],
+    "message": "You often keep your heart behind a veil, observing love rather than plunging in. Veil and The Lovers urge you to let someone truly see you. It's scary to lower your guard, but true connection thrives on honesty and emotional risk. Dare to unveil yourself a little—love could be waiting to meet the real you, and it's more tender and accepting than you fear."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Chariot",
-    "card_keywords": [
-      "willpower",
-      "motion",
-      "victory"
-    ],
-    "message": "The The Chariot meets the Ember aura \u2014 a moment shaped by emotion and willpower. Trust what's rising."
+    "card_keywords": ["determination", "victory", "momentum", "focus", "drive", "control"],
+    "message": "You’ve been moving quietly, maybe even hiding your true ambitions. Veil and The Chariot combine stealth with strength, telling you it's time to charge ahead. You don't have to announce your plans to the world; just know within that you're on a mission. Trust your intuition to guide the wheels—your private determination will still carry you to victory."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "Strength",
-    "card_keywords": [
-      "courage",
-      "patience",
-      "inner power"
-    ],
-    "message": "The Strength meets the Ember aura \u2014 a moment shaped by emotion and courage. Trust what's rising."
+    "card_keywords": ["courage", "compassion", "inner strength", "patience", "gentleness", "resilience"],
+    "message": "You often keep your struggles hidden, but quietly you’ve been so strong. Veil and Strength together speak of grace under pressure. You tame your inner beasts not with loud bravado, but with patience and understanding even when no one is watching. Give yourself credit for the courage it takes to face your shadows—you've proven that true strength can be subtle and kind."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Hermit",
-    "card_keywords": [
-      "solitude",
-      "reflection",
-      "wisdom"
-    ],
-    "message": "The The Hermit meets the Ember aura \u2014 a moment shaped by emotion and solitude. Trust what's rising."
+    "card_keywords": ["solitude", "introspection", "wisdom", "guidance", "reflection", "inner light"],
+    "message": "You've been in a self-imposed seclusion, and it's been a time of deep reflection. Veil and The Hermit suggest that behind closed doors, you've found a sacred space to understand yourself. It's okay that you're not very visible right now; your soul is doing important inner work in the dark. When you're ready, you'll return from this solitude carrying a light that can guide you and others."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "Wheel of Fortune",
-    "card_keywords": [
-      "change",
-      "fate",
-      "cycles"
-    ],
-    "message": "The Wheel of Fortune meets the Ember aura \u2014 a moment shaped by emotion and change. Trust what's rising."
+    "card_keywords": ["destiny", "change", "cycles", "fate", "chance", "turning point"],
+    "message": "Behind your veil of cautious control, life is spinning up a surprise. Veil and Wheel of Fortune remind you that not everything can be anticipated. Fate has its own plans, and sometimes a sudden twist can reveal hidden blessings. Embrace the uncertainty—your intuition will help you navigate this turn of the wheel, and you might end up exactly where you need to be."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "Justice",
-    "card_keywords": [
-      "balance",
-      "truth",
-      "accountability"
-    ],
-    "message": "The Justice meets the Ember aura \u2014 a moment shaped by emotion and balance. Trust what's rising."
+    "card_keywords": ["fairness", "truth", "balance", "karma", "accountability", "integrity"],
+    "message": "You've kept some truths behind a veil, but the scales of Justice are tipping toward honesty. Veil and Justice together urge you to come clean—first with yourself, then with others. It might feel vulnerable to reveal what's hidden, but fairness and clarity bring relief. In allowing truth to surface, you restore balance to your spirit and your world."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Hanged Man",
-    "card_keywords": [
-      "pause",
-      "sacrifice",
-      "perspective"
-    ],
-    "message": "The The Hanged Man meets the Ember aura \u2014 a moment shaped by emotion and pause. Trust what's rising."
+    "card_keywords": ["surrender", "letting go", "patience", "new perspective", "sacrifice", "acceptance"],
+    "message": "You've been keeping to yourself, hanging back and observing. Veil and The Hanged Man together create a deliberate stillness. This time of waiting and secrecy is not wasted—it's giving you a chance to see things differently. Allow yourself to just be, even if nothing is happening on the surface; in the silence behind the veil, a new understanding is taking root."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "Death",
-    "card_keywords": [
-      "endings",
-      "rebirth",
-      "release"
-    ],
-    "message": "The Death meets the Ember aura \u2014 a moment shaped by emotion and endings. Trust what's rising."
+    "card_keywords": ["transformation", "ending", "rebirth", "letting go", "inevitable change", "transition"],
+    "message": "You've sensed a change coming from behind the scenes of your life. Veil and Death indicate a hidden ending or transformation that's ready to surface. It might feel scary to unveil this loss or change, but there's profound rebirth waiting on the other side. Allow the old chapter to close with grace; in the space that follows, you'll find the quiet promise of renewal."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "Temperance",
-    "card_keywords": [
-      "harmony",
-      "patience",
-      "moderation"
-    ],
-    "message": "The Temperance meets the Ember aura \u2014 a moment shaped by emotion and harmony. Trust what's rising."
+    "card_keywords": ["balance", "moderation", "harmony", "healing", "patience", "blending"],
+    "message": "You often live behind the veil, keeping extremes at bay, and now the call is to find the middle ground. Veil and Temperance suggest a time for gentle healing and blending of opposites in your life. You can maintain your mystery while still letting some light in—it's not all or nothing. By moderating your emotional highs and lows, you'll create a peaceful balance that feels right to your soul."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Devil",
-    "card_keywords": [
-      "attachment",
-      "shadow",
-      "desire"
-    ],
-    "message": "The The Devil meets the Ember aura \u2014 a moment shaped by emotion and attachment. Trust what's rising."
+    "card_keywords": ["temptation", "addiction", "materialism", "desire", "bondage", "shadow self"],
+    "message": "You keep some of your struggles behind closed curtains, don't you? Veil and The Devil shine a subtle light on the secrets that might be chaining you. It's possible you've been hiding a desire or doubt that quietly controls you. Bring it out into the open with compassion for yourself—naming your demon lessens its power, and you'll find you had the key to your freedom in your hand all along."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Tower",
-    "card_keywords": [
-      "disruption",
-      "awakening",
-      "collapse"
-    ],
-    "message": "The The Tower meets the Ember aura \u2014 a moment shaped by emotion and disruption. Trust what's rising."
+    "card_keywords": ["upheaval", "revelation", "chaos", "collapse", "awakening", "breakdown"],
+    "message": "You've built up walls and stayed behind them, but now those walls are coming down. Veil and The Tower say that a hidden truth or suppressed situation is erupting into the open. It might feel like everything is falling apart, but it's really falsehoods and old defenses that are cracking. Let the illusion shatter; what remains will be more real, and from the rubble you can rebuild a life on honest ground."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Star",
-    "card_keywords": [
-      "hope",
-      "healing",
-      "renewal"
-    ],
-    "message": "The The Star meets the Ember aura \u2014 a moment shaped by emotion and hope. Trust what's rising."
+    "card_keywords": ["hope", "guidance", "inspiration", "serenity", "healing", "faith"],
+    "message": "You've kept your dreams and wounds hidden, but hope finds you even behind the veil. Veil and The Star create a quiet moment of healing just for you. In the privacy of your heart, a small light begins to glimmer, reminding you that not all is lost. Dare to let that light in—the universe hasn't forgotten you, and there's a gentle inspiration seeping through the cracks."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Moon",
-    "card_keywords": [
-      "illusion",
-      "emotion",
-      "intuition"
-    ],
-    "message": "The The Moon meets the Ember aura \u2014 a moment shaped by emotion and illusion. Trust what's rising."
+    "card_keywords": ["mystery", "intuition", "soft fear", "shadow", "depth", "fluidity"],
+    "message": "You live with one foot in the shadows and The Moon intensifies that feeling. Veil and The Moon create a deep, dreamy landscape in your soul. You might be wrestling with vague fears or vivid dreams that no one else sees. Don't be afraid of the unknown within—you understand the language of the subconscious more than most, and it will guide you through the dim light if you let it."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The Sun",
-    "card_keywords": [
-      "joy",
-      "vitality",
-      "truth"
-    ],
-    "message": "The The Sun meets the Ember aura \u2014 a moment shaped by emotion and joy. Trust what's rising."
+    "card_keywords": ["joy", "positivity", "success", "vitality", "clarity", "warmth"],
+    "message": "You've spent so long behind the curtain that the brightness might feel a bit overwhelming. Veil and The Sun together promise that stepping into the light will warm your soul. Truth and joy are shining through, dissolving the doubts and shadows you've clung to. Let yourself be seen and celebrated—there's no need for hiding when life is this beautiful and real."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
-    "card": "Judgement",
-    "card_keywords": [
-      "reckoning",
-      "rebirth",
-      "clarity"
-    ],
-    "message": "The Judgement meets the Ember aura \u2014 a moment shaped by emotion and reckoning. Trust what's rising."
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
+    "card": "Judgment",
+    "card_keywords": ["awakening", "rebirth", "reckoning", "forgiveness", "inner calling", "liberation"],
+    "message": "You've been quietly holding onto old ghosts behind the veil. Veil and Judgment urge you to release them and answer a higher calling. This is a time of reckoning and rebirth—your spirit wants to forgive, atone, and move forward. Lift the veil and let the past slip away; you're being reborn into a wiser, freer version of yourself."
   },
   {
-    "aura_id": "ember",
-    "aura_label": "Ember",
-    "aura_keywords": [
-      "emotion",
-      "transformation",
-      "release"
-    ],
+    "aura_id": "veil",
+    "aura_label": "Veil",
+    "aura_keywords": ["mysterious", "intuitive", "elusive", "ethereal"],
+    "aura_description": "Your energy is a quiet mystery—a veil of intuition and hidden depths draped softly around you.",
     "card": "The World",
-    "card_keywords": [
-      "completion",
-      "wholeness",
-      "arrival"
-    ],
-    "message": "The The World meets the Ember aura \u2014 a moment shaped by emotion and completion. Trust what's rising."
+    "card_keywords": ["completion", "wholeness", "fulfillment", "unity", "achievement", "integration"],
+    "message": "You've spent a lot of time in your own secret world, and now that world is expanding to meet the real one. Veil and The World mark a union of your inner completeness with outer accomplishment. You have quietly gathered all the pieces of yourself, and they fit together perfectly now. Step out and embrace the whole picture—nothing is missing, and you are ready to share your full self with the world."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Fool",
-    "card_keywords": [
-      "beginning",
-      "innocence",
-      "openness"
-    ],
-    "message": "The The Fool meets the Lumen aura \u2014 a moment shaped by clarity and beginning. Trust what's rising."
+    "card_keywords": ["wide-eyed wonder", "reckless innocence", "spontaneity", "faith", "freedom", "potential"],
+    "message": "A spark inside you is aching to catch fire. Ember and The Fool together set the stage for a bold new start. Your passion flickers with innocent excitement, lighting the way forward into the unknown. Go ahead and feed that tiny flame—it's time to run with your wild idea and see how bright it can burn."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Magician",
-    "card_keywords": [
-      "potential",
-      "power",
-      "creation"
-    ],
-    "message": "The The Magician meets the Lumen aura \u2014 a moment shaped by clarity and potential. Trust what's rising."
+    "card_keywords": ["creative will", "focused intention", "resourcefulness", "confidence", "alchemy", "manifestation"],
+    "message": "Your inner fire is crackling with possibilities. Ember and The Magician make a formidable duo, turning your spark into real-world magic. You’re channeling passion into purpose, every intention fueling the flame. Believe in your own alchemy—you're fully capable of crafting the reality you desire."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The High Priestess",
-    "card_keywords": [
-      "intuition",
-      "mystery",
-      "depth"
-    ],
-    "message": "The The High Priestess meets the Lumen aura \u2014 a moment shaped by clarity and intuition. Trust what's rising."
+    "card_keywords": ["intuition", "inner knowing", "mystery", "hidden truth", "serenity", "sacred feminine"],
+    "message": "Though you burn with creative fire, there’s a quiet voice within the flame. Ember and The High Priestess ask you to listen to the hush beneath your passion. In the glow of your inner fire, intuitive visions dance in the shadows it casts. Not every answer will come through logic—trust the flicker of your instincts, even in the heat of your ambitions."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Empress",
-    "card_keywords": [
-      "nurture",
-      "abundance",
-      "creativity"
-    ],
-    "message": "The The Empress meets the Lumen aura \u2014 a moment shaped by clarity and nurture. Trust what's rising."
+    "card_keywords": ["nurturing", "fertility", "abundance", "sensuality", "creativity", "warmth"],
+    "message": "Your inner fire longs to create something real and tender. Ember and The Empress join forces to turn passion into fertile growth. Whether it's art, relationships, or self-love, you have a warm glow that can bring things to life. Tend to what ignites your soul—this is a moment to create and nurture with all your heart."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Emperor",
-    "card_keywords": [
-      "structure",
-      "authority",
-      "protection"
-    ],
-    "message": "The The Emperor meets the Lumen aura \u2014 a moment shaped by clarity and structure. Trust what's rising."
+    "card_keywords": ["authority", "structure", "stability", "discipline", "protection", "ambition"],
+    "message": "Your passion is powerful, and now it needs a plan. Ember and The Emperor combine fire with focus to help you build something real. That creative spark of yours can become a steady flame lighting the path to your goals. Take control of the chaos—by setting gentle boundaries for yourself, you'll turn inspiration into lasting success."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Hierophant",
-    "card_keywords": [
-      "tradition",
-      "wisdom",
-      "guidance"
-    ],
-    "message": "The The Hierophant meets the Lumen aura \u2014 a moment shaped by clarity and tradition. Trust what's rising."
+    "card_keywords": ["tradition", "guidance", "wisdom", "conformity", "ritual", "faith"],
+    "message": "Your passion runs hot, and sometimes it feels like rules and traditions can't contain it. Ember and The Hierophant suggest finding a bridge between your fire and some time-honored wisdom. You might discover that structure or a lineage of knowledge can actually amplify your creativity instead of quenching it. Let your fire illuminate old teachings in a new way—there's a place for you in the grand story if you open up to it."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Lovers",
-    "card_keywords": [
-      "connection",
-      "choice",
-      "intimacy"
-    ],
-    "message": "The The Lovers meets the Lumen aura \u2014 a moment shaped by clarity and connection. Trust what's rising."
+    "card_keywords": ["love", "partnership", "harmony", "desire", "choice", "alignment"],
+    "message": "Your heart burns with passion, and The Lovers fan those flames. Ember and The Lovers together create an atmosphere ripe with romance and intense connection. It's the kind of heat that can forge a deep bond, but be sure to tend it gently so it doesn't burn too fast. Embrace the desire and vulnerability—you’re alive in this moment of love, and it's as real as the fire in your soul."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Chariot",
-    "card_keywords": [
-      "willpower",
-      "motion",
-      "victory"
-    ],
-    "message": "The The Chariot meets the Lumen aura \u2014 a moment shaped by clarity and willpower. Trust what's rising."
+    "card_keywords": ["determination", "victory", "momentum", "focus", "drive", "control"],
+    "message": "Your inner fire is raring to go. Ember and The Chariot ignite a fierce momentum to pursue what you want. Passion is your fuel and focus is your compass now. Harness this energy wisely—when you direct that flame with determination, there's very little that can stop you on your path."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "Strength",
-    "card_keywords": [
-      "courage",
-      "patience",
-      "inner power"
-    ],
-    "message": "The Strength meets the Lumen aura \u2014 a moment shaped by clarity and courage. Trust what's rising."
+    "card_keywords": ["courage", "compassion", "inner strength", "patience", "gentleness", "resilience"],
+    "message": "Your passion runs deep, and with it sometimes, fierce emotions. Ember and Strength guide you to channel that fire with compassion and control. It's like tending a bonfire—you keep it warm and bright without letting it rage out of bounds. Through love and patience, you're mastering yourself; this quiet courage to balance fire with kindness is your true power."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Hermit",
-    "card_keywords": [
-      "solitude",
-      "reflection",
-      "wisdom"
-    ],
-    "message": "The The Hermit meets the Lumen aura \u2014 a moment shaped by clarity and solitude. Trust what's rising."
+    "card_keywords": ["solitude", "introspection", "wisdom", "guidance", "reflection", "inner light"],
+    "message": "Even a bright flame needs to retreat to the coals sometimes. Ember and The Hermit indicate it's time to seek quiet and wisdom away from the crowd. Your passion isn't gone—it's just consolidating in the sanctuary of your own thoughts. In this peaceful pause, you'll discover a new spark of insight that makes your inner fire burn more true when you return to the world."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "Wheel of Fortune",
-    "card_keywords": [
-      "change",
-      "fate",
-      "cycles"
-    ],
-    "message": "The Wheel of Fortune meets the Lumen aura \u2014 a moment shaped by clarity and change. Trust what's rising."
+    "card_keywords": ["destiny", "change", "cycles", "fate", "chance", "turning point"],
+    "message": "A flicker of change is sparking in your life. Ember and Wheel of Fortune light up a new phase of your journey. The fire you carry adapts to these shifting winds of fate—sometimes flaring, sometimes dimming, but never going out. Trust that each twist in the road fuels your growth; destiny is stoking your inner flames in ways you can't yet imagine."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "Justice",
-    "card_keywords": [
-      "balance",
-      "truth",
-      "accountability"
-    ],
-    "message": "The Justice meets the Lumen aura \u2014 a moment shaped by clarity and balance. Trust what's rising."
+    "card_keywords": ["fairness", "truth", "balance", "karma", "accountability", "integrity"],
+    "message": "Your passions run hot, but now is a time to ensure they're righteous and fair. Ember and Justice pair intensity with integrity. Before you act or speak in the heat of the moment, step back and make sure it's coming from a balanced heart. When your fire is guided by truth and honor, you become a fierce force for good."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Hanged Man",
-    "card_keywords": [
-      "pause",
-      "sacrifice",
-      "perspective"
-    ],
-    "message": "The The Hanged Man meets the Lumen aura \u2014 a moment shaped by clarity and pause. Trust what's rising."
+    "card_keywords": ["surrender", "letting go", "patience", "new perspective", "sacrifice", "acceptance"],
+    "message": "Your fire wants to charge ahead, but life has set you gently on pause. Ember and The Hanged Man teach the power of patience and perspective. In the glow of this forced stillness, you can see the situation in a new light—like embers casting dancing shadows on the walls. Use this time to reflect rather than rush; when it's time to move again, you'll know exactly where to ignite your energy."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "Death",
-    "card_keywords": [
-      "endings",
-      "rebirth",
-      "release"
-    ],
-    "message": "The Death meets the Lumen aura \u2014 a moment shaped by clarity and endings. Trust what's rising."
+    "card_keywords": ["transformation", "ending", "rebirth", "letting go", "inevitable change", "transition"],
+    "message": "A flame in your life is burning low, signaling the end of an era. Ember and Death remind you that from ashes, new fires will one day spark. It’s hard to let the last glow fade, but transformation requires surrender to the extinguishing of what was. Trust the cycle—your passion isn’t gone, it’s just making way for a new flame to ignite when the time is right."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "Temperance",
-    "card_keywords": [
-      "harmony",
-      "patience",
-      "moderation"
-    ],
-    "message": "The Temperance meets the Lumen aura \u2014 a moment shaped by clarity and harmony. Trust what's rising."
+    "card_keywords": ["balance", "moderation", "harmony", "healing", "patience", "blending"],
+    "message": "Your inner fire burns bright, but now you’re learning to temper it with calm. Ember and Temperance blend passion with patience. You’re finding a sweet alchemy—like mixing hot and cool to make something just right. In balancing your drive with serenity, you're healing parts of yourself and creating a more sustainable warmth that can last."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Devil",
-    "card_keywords": [
-      "attachment",
-      "shadow",
-      "desire"
-    ],
-    "message": "The The Devil meets the Lumen aura \u2014 a moment shaped by clarity and attachment. Trust what's rising."
+    "card_keywords": ["temptation", "addiction", "materialism", "desire", "bondage", "shadow self"],
+    "message": "Your passions blaze fiercely, but be careful they don't burn out of control. Ember and The Devil speak to the seductive side of desire that can consume you. Perhaps there's an obsession or indulgence tempting you to lose yourself completely in its flames. Remember, you are the one tending this fire—step back, take a breath, and don't let a momentary hunger trap your wild heart."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Tower",
-    "card_keywords": [
-      "disruption",
-      "awakening",
-      "collapse"
-    ],
-    "message": "The The Tower meets the Lumen aura \u2014 a moment shaped by clarity and disruption. Trust what's rising."
+    "card_keywords": ["upheaval", "revelation", "chaos", "collapse", "awakening", "breakdown"],
+    "message": "Your world may feel like it's bursting into flames right now. Ember and The Tower show destruction that can also spark a new fire. An unexpected shock or conflict has struck, burning down the familiar. It’s intense, but remember—the forest needs a wildfire sometimes to renew itself; from the ashes of this upheaval, you'll ignite a fresh start stronger than before."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Star",
-    "card_keywords": [
-      "hope",
-      "healing",
-      "renewal"
-    ],
-    "message": "The The Star meets the Lumen aura \u2014 a moment shaped by clarity and hope. Trust what's rising."
+    "card_keywords": ["hope", "guidance", "inspiration", "serenity", "healing", "faith"],
+    "message": "After the fire, an ember still glows softly within you, and that's where hope resides. Ember and The Star combine resilience with optimism. Your spirit is quietly regenerating—like a lone ember lighting up under a sky of stars, ready to spark new life. Take comfort in the inspiration returning to you now; this is a time of gentle rejuvenation, where each small glimmer can kindle a brighter tomorrow."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Moon",
-    "card_keywords": [
-      "illusion",
-      "emotion",
-      "intuition"
-    ],
-    "message": "The The Moon meets the Lumen aura \u2014 a moment shaped by clarity and illusion. Trust what's rising."
+    "card_keywords": ["mystery", "intuition", "soft fear", "shadow", "depth", "fluidity"],
+    "message": "A flicker of doubt might be creeping around the edges of your flame. Ember and The Moon cast dancing shadows that can look scarier than they are. Your imagination runs hot and wild under the moonlight, conjuring both inspiration and insecurity. Keep your fire steady and trust your gut feelings—this night of the soul will pass, and you'll find that those shadows were just your creative mind exploring the dark."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The Sun",
-    "card_keywords": [
-      "joy",
-      "vitality",
-      "truth"
-    ],
-    "message": "The The Sun meets the Lumen aura \u2014 a moment shaped by clarity and joy. Trust what's rising."
+    "card_keywords": ["joy", "positivity", "success", "vitality", "clarity", "warmth"],
+    "message": "That little spark inside you is now a blazing sun. Ember and The Sun unite to unleash your full creative power and joy. You’ve come through the night and now you're shining bright, full of vitality and confidence. Share your warmth generously—this is a time of celebration and life-affirming energy, and it all radiates from the fire in your heart."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
-    "card": "Judgement",
-    "card_keywords": [
-      "reckoning",
-      "rebirth",
-      "clarity"
-    ],
-    "message": "The Judgement meets the Lumen aura \u2014 a moment shaped by clarity and reckoning. Trust what's rising."
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
+    "card": "Judgment",
+    "card_keywords": ["awakening", "rebirth", "reckoning", "forgiveness", "inner calling", "liberation"],
+    "message": "Something in you that has been quietly burning now flares with purpose. Ember and Judgment combine a passionate rebirth. You've reached a turning point where old limitations are turning to ash and a clearer, truer mission emerges from the smoke. Embrace this awakening—rise from your own flames like a phoenix; it's time to answer the call you’ve been feeling in your bones."
   },
   {
-    "aura_id": "lumen",
-    "aura_label": "Lumen",
-    "aura_keywords": [
-      "clarity",
-      "warmth",
-      "presence"
-    ],
+    "aura_id": "ember",
+    "aura_label": "Ember",
+    "aura_keywords": ["passionate", "smoldering", "creative", "resilient"],
+    "aura_description": "A quiet ember burns within you, warm and creative, ready to ignite into brilliance when the moment calls.",
     "card": "The World",
-    "card_keywords": [
-      "completion",
-      "wholeness",
-      "arrival"
-    ],
-    "message": "The The World meets the Lumen aura \u2014 a moment shaped by clarity and completion. Trust what's rising."
+    "card_keywords": ["completion", "wholeness", "fulfillment", "unity", "achievement", "integration"],
+    "message": "Your once-small spark has grown into a sun that illuminates your whole life. Ember and The World together signal a triumphant completion. You've poured your passion into something and now you see the entire beautiful result—it's all come together. Revel in this accomplishment and warm yourself by the glow of its wholeness; you've earned the sense of unity and closure that surrounds you now."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Fool",
-    "card_keywords": [
-      "beginning",
-      "innocence",
-      "openness"
-    ],
-    "message": "The The Fool meets the Void aura \u2014 a moment shaped by stillness and beginning. Trust what's rising."
+    "card_keywords": ["wide-eyed wonder", "reckless innocence", "spontaneity", "faith", "freedom", "potential"],
+    "message": "You stand at the edge of a new season, ready to blossom in ways you can't yet imagine. Bloom and The Fool invite you to grow fearlessly. There's a youthful hope in your heart that makes even uncertainty feel like an adventure. Trust that you're planting the right seeds by embracing this new journey with open arms."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Magician",
-    "card_keywords": [
-      "potential",
-      "power",
-      "creation"
-    ],
-    "message": "The The Magician meets the Void aura \u2014 a moment shaped by stillness and potential. Trust what's rising."
+    "card_keywords": ["creative will", "focused intention", "resourcefulness", "confidence", "alchemy", "manifestation"],
+    "message": "Something new is germinating in your life, and you have the magic to help it grow. Bloom and The Magician empower you to cultivate your visions into reality. With creativity blooming inside you, even the smallest idea can become a lush garden if you tend it. Use your will and wisdom like sunlight and water—you're growing something beautiful from within."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The High Priestess",
-    "card_keywords": [
-      "intuition",
-      "mystery",
-      "depth"
-    ],
-    "message": "The The High Priestess meets the Void aura \u2014 a moment shaped by stillness and intuition. Trust what's rising."
+    "card_keywords": ["intuition", "inner knowing", "mystery", "hidden truth", "serenity", "sacred feminine"],
+    "message": "While you’re busy growing and nurturing others, something in you is gently calling for quiet and reflection. Bloom and The High Priestess create a sacred garden within your soul where intuition blossoms. In the stillness behind all your caring actions, a soft voice of wisdom is blooming too. Water your inner garden by giving yourself moments of silence—your deepest truths will reveal themselves petal by petal."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Empress",
-    "card_keywords": [
-      "nurture",
-      "abundance",
-      "creativity"
-    ],
-    "message": "The The Empress meets the Void aura \u2014 a moment shaped by stillness and nurture. Trust what's rising."
+    "card_keywords": ["nurturing", "fertility", "abundance", "sensuality", "creativity", "warmth"],
+    "message": "You're in full bloom and it's a beautiful sight. Bloom and The Empress wrap you in a garden of creativity and care. Everything you touch right now grows a little brighter, fed by your kindness and passion. Enjoy this fertile time—love and abundance are flowering all around you, and you deserve every petal."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Emperor",
-    "card_keywords": [
-      "structure",
-      "authority",
-      "protection"
-    ],
-    "message": "The The Emperor meets the Void aura \u2014 a moment shaped by stillness and structure. Trust what's rising."
+    "card_keywords": ["authority", "structure", "stability", "discipline", "protection", "ambition"],
+    "message": "You've been growing wild and free, but now it's time to shape that growth with intention. Bloom and The Emperor bring together creativity and stability. Think of a garden—your ideas are flowers, and a bit of structure is the trellis that helps them reach higher. Don’t fear discipline; it's just support for your natural blossoming."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Hierophant",
-    "card_keywords": [
-      "tradition",
-      "wisdom",
-      "guidance"
-    ],
-    "message": "The The Hierophant meets the Void aura \u2014 a moment shaped by stillness and tradition. Trust what's rising."
+    "card_keywords": ["tradition", "guidance", "wisdom", "conformity", "ritual", "faith"],
+    "message": "You're eager to grow and learn, and there's guidance available to help you flourish. Bloom and The Hierophant combine new growth with ancient roots. Perhaps it’s time to seek wisdom from a teacher or a tradition that speaks to you—something to ground your blossoming spirit. By honoring what came before, you'll find your own beliefs and values blooming stronger than ever."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Lovers",
-    "card_keywords": [
-      "connection",
-      "choice",
-      "intimacy"
-    ],
-    "message": "The The Lovers meets the Void aura \u2014 a moment shaped by stillness and connection. Trust what's rising."
+    "card_keywords": ["love", "partnership", "harmony", "desire", "choice", "alignment"],
+    "message": "Love is blossoming in and around you. Bloom and The Lovers nurture a garden of affection and trust. Whether it's a relationship or learning to love yourself, every petal is unfolding perfectly in its time. Cherish this growth—you're creating a beautiful harmony in your life by choosing love and allowing it to grow."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Chariot",
-    "card_keywords": [
-      "willpower",
-      "motion",
-      "victory"
-    ],
-    "message": "The The Chariot meets the Void aura \u2014 a moment shaped by stillness and willpower. Trust what's rising."
+    "card_keywords": ["determination", "victory", "momentum", "focus", "drive", "control"],
+    "message": "You've nurtured your dreams and now they're strong enough to take off. Bloom and The Chariot urge you to push forward confidently. Think of a vine that has grown long and is now reaching for the sun—it's your turn to strive towards a goal. With determination and the foundation you've cultivated, you can surge ahead and thrive."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "Strength",
-    "card_keywords": [
-      "courage",
-      "patience",
-      "inner power"
-    ],
-    "message": "The Strength meets the Void aura \u2014 a moment shaped by stillness and courage. Trust what's rising."
+    "card_keywords": ["courage", "compassion", "inner strength", "patience", "gentleness", "resilience"],
+    "message": "You have a tender heart, but don't mistake that for weakness. Bloom and Strength show how your compassion gives you incredible resilience. Like a tree that bends but doesn't break in the wind, your kindness actually makes you sturdier. Keep nurturing what you love and standing up softly for what’s right—you're stronger and more rooted than you know."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Hermit",
-    "card_keywords": [
-      "solitude",
-      "reflection",
-      "wisdom"
-    ],
-    "message": "The The Hermit meets the Void aura \u2014 a moment shaped by stillness and solitude. Trust what's rising."
+    "card_keywords": ["solitude", "introspection", "wisdom", "guidance", "reflection", "inner light"],
+    "message": "You've been giving so much of yourself, helping things grow around you. Bloom and The Hermit remind you to save some of that nurturing for your own soul. It's okay to retreat into your own garden of thoughts, tending to your inner needs for a while. In solitude, you'll find the wisdom and energy to keep blooming for yourself and others."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "Wheel of Fortune",
-    "card_keywords": [
-      "change",
-      "fate",
-      "cycles"
-    ],
-    "message": "The Wheel of Fortune meets the Void aura \u2014 a moment shaped by stillness and change. Trust what's rising."
+    "card_keywords": ["destiny", "change", "cycles", "fate", "chance", "turning point"],
+    "message": "Seasons of your life are changing, and something new is ready to bloom. Bloom and Wheel of Fortune revolve together, turning endings into fresh starts. You've planted many seeds; now the wheel turns to bring different ones to flower. Embrace the shifts with hope—every cycle of change offers a chance for new growth and unexpected blossoms."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "Justice",
-    "card_keywords": [
-      "balance",
-      "truth",
-      "accountability"
-    ],
-    "message": "The Justice meets the Void aura \u2014 a moment shaped by stillness and balance. Trust what's rising."
+    "card_keywords": ["fairness", "truth", "balance", "karma", "accountability", "integrity"],
+    "message": "You've grown so much, and part of that growth is recognizing the need for fairness. Bloom and Justice encourage you to cultivate truth and balance in your life. Think of justice as a garden too—it flourishes when tended with honesty and care. By treating yourself and others with equal compassion, you're planting seeds of harmony that can only enrich your world."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Hanged Man",
-    "card_keywords": [
-      "pause",
-      "sacrifice",
-      "perspective"
-    ],
-    "message": "The The Hanged Man meets the Void aura \u2014 a moment shaped by stillness and pause. Trust what's rising."
+    "card_keywords": ["surrender", "letting go", "patience", "new perspective", "sacrifice", "acceptance"],
+    "message": "You might feel your growth has stalled, as if suspended in mid-air. Bloom and The Hanged Man reassure you that seeds often germinate unseen. During this lull, you're developing a new outlook—imagine a flower bud taking its time to turn toward a different angle of sunlight. Trust in the delay; a change in perspective now will lead to even more vibrant growth soon."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "Death",
-    "card_keywords": [
-      "endings",
-      "rebirth",
-      "release"
-    ],
-    "message": "The Death meets the Void aura \u2014 a moment shaped by stillness and endings. Trust what's rising."
+    "card_keywords": ["transformation", "ending", "rebirth", "letting go", "inevitable change", "transition"],
+    "message": "Every garden knows that some blooms must wither to make space for new growth. Bloom and Death together speak of natural endings in your life’s cycle. It may hurt to say goodbye, but this ending is as organic as petals falling in autumn. Take comfort in the knowledge that from this letting go, fertile soil is left behind for something new and beautiful to take root."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "Temperance",
-    "card_keywords": [
-      "harmony",
-      "patience",
-      "moderation"
-    ],
-    "message": "The Temperance meets the Void aura \u2014 a moment shaped by stillness and harmony. Trust what's rising."
+    "card_keywords": ["balance", "moderation", "harmony", "healing", "patience", "blending"],
+    "message": "You're eager to grow and give, but even the lushest garden needs balanced care. Bloom and Temperance guide you to moderate and harmonize. Think of mixing just the right amount of sun and water—you're adjusting how much you pour into something versus how much you receive. With this gentle balance, you’ll continue to flourish without burning out, finding healing for yourself and those you nurture."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Devil",
-    "card_keywords": [
-      "attachment",
-      "shadow",
-      "desire"
-    ],
-    "message": "The The Devil meets the Void aura \u2014 a moment shaped by stillness and attachment. Trust what's rising."
+    "card_keywords": ["temptation", "addiction", "materialism", "desire", "bondage", "shadow self"],
+    "message": "You have a loving, growing spirit, but something is entangling your roots. Bloom and The Devil reveal a toxic attachment or habit that's choking your growth. It could be a relationship or a comfort you cling to even though it drains you. Recognize that you deserve to flourish freely—cut away that thorny vine holding you back, and you'll bloom with renewed vitality once again."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Tower",
-    "card_keywords": [
-      "disruption",
-      "awakening",
-      "collapse"
-    ],
-    "message": "The The Tower meets the Void aura \u2014 a moment shaped by stillness and disruption. Trust what's rising."
+    "card_keywords": ["upheaval", "revelation", "chaos", "collapse", "awakening", "breakdown"],
+    "message": "You were blossoming in your comfort zone, but now something has torn through that garden. Bloom and The Tower reveal sudden change ripping up old roots. It's startling and maybe painful, like a storm ravaging carefully tended flowers. Yet, this clearing creates space for new life—you'll replant and grow again, wiser and more resilient than before."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Star",
-    "card_keywords": [
-      "hope",
-      "healing",
-      "renewal"
-    ],
-    "message": "The The Star meets the Void aura \u2014 a moment shaped by stillness and hope. Trust what's rising."
+    "card_keywords": ["hope", "guidance", "inspiration", "serenity", "healing", "faith"],
+    "message": "You've tended to everyone's garden, and now the universe is tending to you with a gentle light. Bloom and The Star bathe you in hope and healing. It's a soft glow that makes the dew on your petals glisten again—you are recovering your vibrance. Believe in the promise of this moment; a new inspiration is blooming in your soul, as naturally as dawn follows night."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Moon",
-    "card_keywords": [
-      "illusion",
-      "emotion",
-      "intuition"
-    ],
-    "message": "The The Moon meets the Void aura \u2014 a moment shaped by stillness and illusion. Trust what's rising."
+    "card_keywords": ["mystery", "intuition", "soft fear", "shadow", "depth", "fluidity"],
+    "message": "Your heart is open and growing, but in the moonlight everything feels a little uncertain. Bloom and The Moon together create a surreal garden of emotions—some beautiful, some eerie. You might be sensing things you can't name, like flowers that only bloom at midnight. Trust this delicate intuition; not everything meaningful happens in broad daylight—some growth needs the mystery of night."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The Sun",
-    "card_keywords": [
-      "joy",
-      "vitality",
-      "truth"
-    ],
-    "message": "The The Sun meets the Void aura \u2014 a moment shaped by stillness and joy. Trust what's rising."
+    "card_keywords": ["joy", "positivity", "success", "vitality", "clarity", "warmth"],
+    "message": "You are blossoming under the brightest of skies. Bloom and The Sun fill your world with life, joy, and clarity. Every color in your life seems more vivid now, and what's been growing within you finally bursts into full flower. Relish this warmth and success—it's a golden chapter and you’ve earned every ray."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
-    "card": "Judgement",
-    "card_keywords": [
-      "reckoning",
-      "rebirth",
-      "clarity"
-    ],
-    "message": "The Judgement meets the Void aura \u2014 a moment shaped by stillness and reckoning. Trust what's rising."
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
+    "card": "Judgment",
+    "card_keywords": ["awakening", "rebirth", "reckoning", "forgiveness", "inner calling", "liberation"],
+    "message": "You've grown through so much, and now it's time to step into the life you've been cultivating. Bloom and Judgment herald a rebirth into authenticity. Think of a butterfly breaking out of a chrysalis—the old self falls away, and your true colors are revealed. Embrace this powerful renewal; all the lessons and love you've gathered will guide you as you rise up refreshed and ready for what's next."
   },
   {
-    "aura_id": "void",
-    "aura_label": "Void",
-    "aura_keywords": [
-      "stillness",
-      "unknowing",
-      "depth"
-    ],
+    "aura_id": "bloom",
+    "aura_label": "Bloom",
+    "aura_keywords": ["growing", "hopeful", "nurturing", "vibrant"],
+    "aura_description": "Your spirit is in bloom like a wildflower, hopeful and nurturing—bringing new life wherever you go.",
     "card": "The World",
-    "card_keywords": [
-      "completion",
-      "wholeness",
-      "arrival"
-    ],
-    "message": "The The World meets the Void aura \u2014 a moment shaped by stillness and completion. Trust what's rising."
+    "card_keywords": ["completion", "wholeness", "fulfillment", "unity", "achievement", "integration"],
+    "message": "From seed to bloom, you've grown into everything you were meant to be in this cycle. Bloom and The World celebrate the full ripening of your efforts. There is a sense of sweet completion, like tasting the fruit of a tree you nurtured through all seasons. Enjoy this moment of wholeness and success—it's a rich harvest, and it carries the promise of new beginnings to come when you're ready."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Fool",
-    "card_keywords": [
-      "beginning",
-      "innocence",
-      "openness"
-    ],
-    "message": "The The Fool meets the Root aura \u2014 a moment shaped by grounding and beginning. Trust what's rising."
+    "card_keywords": ["wide-eyed wonder", "reckless innocence", "spontaneity", "faith", "freedom", "potential"],
+    "message": "Part of you wants to stay in the safety of the shadows, but life is nudging you into the sun. Shade and The Fool together whisper that it's time to step out and explore. Even if you carry a bit of sadness or doubt, a fresh adventure could light a spark in the darkness. Take a deep breath—you're allowed to leave your comfort zone and let a little light in."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Magician",
-    "card_keywords": [
-      "potential",
-      "power",
-      "creation"
-    ],
-    "message": "The The Magician meets the Root aura \u2014 a moment shaped by grounding and potential. Trust what's rising."
+    "card_keywords": ["creative will", "focused intention", "resourcefulness", "confidence", "alchemy", "manifestation"],
+    "message": "In the quiet shadows, you hold more power than you realize. Shade and The Magician suggest a subtle mastery brewing behind your reserved exterior. You don't have to be in the spotlight to make magic happen—sometimes working quietly gives you even more control. With focused intent, you're transforming your private struggles into something strong and real."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The High Priestess",
-    "card_keywords": [
-      "intuition",
-      "mystery",
-      "depth"
-    ],
-    "message": "The The High Priestess meets the Root aura \u2014 a moment shaped by grounding and intuition. Trust what's rising."
+    "card_keywords": ["intuition", "inner knowing", "mystery", "hidden truth", "serenity", "sacred feminine"],
+    "message": "You’ve been spending time in the quiet shadows of your own heart, and that's where intuition thrives. Shade and The High Priestess make an altar of your solitude. In the darkness, your inner eyes see clearly—subtle truths glowing like constellations in a moonless sky. Trust those lights in the dark; your soul knows the way, even if your path is dimly lit."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Empress",
-    "card_keywords": [
-      "nurture",
-      "abundance",
-      "creativity"
-    ],
-    "message": "The The Empress meets the Root aura \u2014 a moment shaped by grounding and nurture. Trust what's rising."
+    "card_keywords": ["nurturing", "fertility", "abundance", "sensuality", "creativity", "warmth"],
+    "message": "You may have been dwelling in your own shade, protecting a tender heart. Shade and The Empress gently encourage you to let a bit of light and love in. There is quiet healing in nature and comfort in allowing yourself some sweetness. Even in sorrow, new life can grow—give yourself permission to feel cared for and watch compassion bloom around you."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Emperor",
-    "card_keywords": [
-      "structure",
-      "authority",
-      "protection"
-    ],
-    "message": "The The Emperor meets the Root aura \u2014 a moment shaped by grounding and structure. Trust what's rising."
+    "card_keywords": ["authority", "structure", "stability", "discipline", "protection", "ambition"],
+    "message": "You might feel lost in the dark at times, but establishing a little order can be your light. Shade and The Emperor encourage you to build a safe foundation even in uncertainty. Your feelings may be heavy, but you still hold the power to create stability around you. Start with small steps—a daily ritual or a plan—something to remind you that you are in control of your own story."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Hierophant",
-    "card_keywords": [
-      "tradition",
-      "wisdom",
-      "guidance"
-    ],
-    "message": "The The Hierophant meets the Root aura \u2014 a moment shaped by grounding and tradition. Trust what's rising."
+    "card_keywords": ["tradition", "guidance", "wisdom", "conformity", "ritual", "faith"],
+    "message": "You've been alone with your thoughts in the dark for a while. Shade and The Hierophant encourage you to reach out to the comfort of faith or community. Even if you're skeptical or weary, a gentle ritual or the wisdom of elders could bring peace to your troubled mind. You don’t have to carry your burdens alone—letting a bit of spiritual light in doesn't betray your solitude, it enriches it."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Lovers",
-    "card_keywords": [
-      "connection",
-      "choice",
-      "intimacy"
-    ],
-    "message": "The The Lovers meets the Root aura \u2014 a moment shaped by grounding and connection. Trust what's rising."
+    "card_keywords": ["love", "partnership", "harmony", "desire", "choice", "alignment"],
+    "message": "You may have been nursing old heartaches in the shadows. Shade and The Lovers gently remind you that connection is still possible. Even with past sorrows, your heart can find comfort and passion again if you let a bit of light in. Take a tentative step towards love or forgiveness—you deserve the kind of partnership that understands your darkness and loves you more for it."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Chariot",
-    "card_keywords": [
-      "willpower",
-      "motion",
-      "victory"
-    ],
-    "message": "The The Chariot meets the Root aura \u2014 a moment shaped by grounding and willpower. Trust what's rising."
+    "card_keywords": ["determination", "victory", "momentum", "focus", "drive", "control"],
+    "message": "You may feel weighed down by a heavy heart, but now is a moment to muster your courage and move. Shade and The Chariot together speak of overcoming internal inertia. Even if part of you wants to stay hidden, there's a deeper willpower stirring, ready to break through the darkness. Hold the reins of your life firmly—your determination can outrun the doubts chasing you."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "Strength",
-    "card_keywords": [
-      "courage",
-      "patience",
-      "inner power"
-    ],
-    "message": "The Strength meets the Root aura \u2014 a moment shaped by grounding and courage. Trust what's rising."
+    "card_keywords": ["courage", "compassion", "inner strength", "patience", "gentleness", "resilience"],
+    "message": "You've weathered a lot of darkness and you're still here—that’s strength in itself. Shade and Strength together acknowledge the quiet endurance you've shown. Even if it doesn't feel like bravery, getting through each day with your burdens is a courageous feat. Take heart in your resilience; gentle perseverance in hard times is your inner lion roaring softly."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Hermit",
-    "card_keywords": [
-      "solitude",
-      "reflection",
-      "wisdom"
-    ],
-    "message": "The The Hermit meets the Root aura \u2014 a moment shaped by grounding and solitude. Trust what's rising."
+    "card_keywords": ["solitude", "introspection", "wisdom", "guidance", "reflection", "inner light"],
+    "message": "You've been alone in your shadows, searching for understanding. Shade and The Hermit create a quiet night of the soul where you're finding your truth. It might feel lonely, but this introspection is shedding light on things you needed to see. Keep exploring your inner landscape—when dawn comes, you'll emerge wiser and more sure of the path ahead."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "Wheel of Fortune",
-    "card_keywords": [
-      "change",
-      "fate",
-      "cycles"
-    ],
-    "message": "The Wheel of Fortune meets the Root aura \u2014 a moment shaped by grounding and change. Trust what's rising."
+    "card_keywords": ["destiny", "change", "cycles", "fate", "chance", "turning point"],
+    "message": "It might feel like you've been in a long night, but the wheel of fate is beginning to turn. Shade and Wheel of Fortune promise that no phase lasts forever, not even the difficult ones. Life is about to shift—perhaps in small ways at first—breaking up the stagnation you’ve felt. Keep faith; the upswing is coming, and you'll see that even the darkest seasons eventually give way to dawn."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "Justice",
-    "card_keywords": [
-      "balance",
-      "truth",
-      "accountability"
-    ],
-    "message": "The Justice meets the Root aura \u2014 a moment shaped by grounding and balance. Trust what's rising."
+    "card_keywords": ["fairness", "truth", "balance", "karma", "accountability", "integrity"],
+    "message": "You’ve been carrying some heavy guilt or unresolved feelings in the shadows. Shade and Justice call for gentle accountability. Making amends or setting something right could lift that weight from your heart. It's not about punishment; it's about healing—balancing the scales so you can step out of the darkness with a clearer conscience and a lighter soul."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Hanged Man",
-    "card_keywords": [
-      "pause",
-      "sacrifice",
-      "perspective"
-    ],
-    "message": "The The Hanged Man meets the Root aura \u2014 a moment shaped by grounding and pause. Trust what's rising."
+    "card_keywords": ["surrender", "letting go", "patience", "new perspective", "sacrifice", "acceptance"],
+    "message": "It might seem like you're stuck in a dark place, unable to move forward. Shade and The Hanged Man indicate that this stillness has a purpose. In the quiet hush of your life now, your soul is adjusting its view—seeing hidden angles of your experiences that were overlooked before. Surrender to the pause, even in darkness; when the time is right, you'll emerge with profound clarity from this hanging moment."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "Death",
-    "card_keywords": [
-      "endings",
-      "rebirth",
-      "release"
-    ],
-    "message": "The Death meets the Root aura \u2014 a moment shaped by grounding and endings. Trust what's rising."
+    "card_keywords": ["transformation", "ending", "rebirth", "letting go", "inevitable change", "transition"],
+    "message": "You've been living in the shadow of an ending for a while. Shade and Death acknowledge the grief and emptiness you might feel. It’s important to mourn what’s gone; even a starless night has its time before the dawn. But know this darkness is the womb of transformation—little by little, the light will return, and you'll emerge changed, with newfound strength where the pain once was."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "Temperance",
-    "card_keywords": [
-      "harmony",
-      "patience",
-      "moderation"
-    ],
-    "message": "The Temperance meets the Root aura \u2014 a moment shaped by grounding and harmony. Trust what's rising."
+    "card_keywords": ["balance", "moderation", "harmony", "healing", "patience", "blending"],
+    "message": "You may have been steeped in darkness, but healing comes in gentle doses of light. Shade and Temperance encourage a gradual blending of your sorrow with a bit of hope. No need to force a smile or rush your recovery—just allow small comforts to mix into your day, like dawn slowly coloring the night sky. In time, this balance will soothe your soul, showing you that even sorrow and peace can coexist and create calm."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Devil",
-    "card_keywords": [
-      "attachment",
-      "shadow",
-      "desire"
-    ],
-    "message": "The The Devil meets the Root aura \u2014 a moment shaped by grounding and attachment. Trust what's rising."
+    "card_keywords": ["temptation", "addiction", "materialism", "desire", "bondage", "shadow self"],
+    "message": "You've been in a dark place, and it might feel like you're chained to it. Shade and The Devil acknowledge the weight of your inner demons. It could be fear, guilt, or an old pain binding you in place, whispering that you can't escape. But that chain isn’t as strong as it seems—each small act of self-love is like a crack of light breaking its links; you have the strength to break free when you decide you deserve better."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Tower",
-    "card_keywords": [
-      "disruption",
-      "awakening",
-      "collapse"
-    ],
-    "message": "The The Tower meets the Root aura \u2014 a moment shaped by grounding and disruption. Trust what's rising."
+    "card_keywords": ["upheaval", "revelation", "chaos", "collapse", "awakening", "breakdown"],
+    "message": "You've been in the dark for so long that even chaos comes as a shock of lightning. Shade and The Tower acknowledge a sudden upheaval breaking through your quiet despair. Everything might feel chaotic, but this shake-up is forcing out the negativity that was stuck deep inside. In the collapse of the old, even gloom can be shattered—take heart, because this turmoil could free you from burdens you thought would never lift."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Star",
-    "card_keywords": [
-      "hope",
-      "healing",
-      "renewal"
-    ],
-    "message": "The The Star meets the Root aura \u2014 a moment shaped by grounding and hope. Trust what's rising."
+    "card_keywords": ["hope", "guidance", "inspiration", "serenity", "healing", "faith"],
+    "message": "You've been walking under a cloud, but look up—there's a quiet star starting to shine for you. Shade and The Star tell of hope breaking through despair. In the depth of your night, a single point of light can feel like a miracle. Allow yourself to trust that gentle brightness; healing is coming drop by drop, and soon you'll see the sky full of stars where there was only darkness."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Moon",
-    "card_keywords": [
-      "illusion",
-      "emotion",
-      "intuition"
-    ],
-    "message": "The The Moon meets the Root aura \u2014 a moment shaped by grounding and illusion. Trust what's rising."
+    "card_keywords": ["mystery", "intuition", "soft fear", "shadow", "depth", "fluidity"],
+    "message": "You've been walking a lonely night path, and The Moon stirs both your deepest intuition and your deepest fears. Shade and The Moon cloak you in darkness, but also give you the eyes to see what others might ignore. It's easy to imagine worst-case scenarios when it's this dark, but remember: the shadows play tricks. Listen to your instincts, but don't believe every fear that whispers from the dark—you will find your way through this night."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The Sun",
-    "card_keywords": [
-      "joy",
-      "vitality",
-      "truth"
-    ],
-    "message": "The The Sun meets the Root aura \u2014 a moment shaped by grounding and joy. Trust what's rising."
+    "card_keywords": ["joy", "positivity", "success", "vitality", "clarity", "warmth"],
+    "message": "The dark clouds are parting, letting sunshine spill into your life. Shade and The Sun mark the end of a long night. Suddenly things feel simpler, happier—like a weight lifting as light pours into the shadows you've known. Embrace this renewal of joy and energy; you deserve to dance in the light after weathering the storm."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
-    "card": "Judgement",
-    "card_keywords": [
-      "reckoning",
-      "rebirth",
-      "clarity"
-    ],
-    "message": "The Judgement meets the Root aura \u2014 a moment shaped by grounding and reckoning. Trust what's rising."
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
+    "card": "Judgment",
+    "card_keywords": ["awakening", "rebirth", "reckoning", "forgiveness", "inner calling", "liberation"],
+    "message": "You've been living in the twilight of past regrets or sorrows. Shade and Judgment together sound a gentle trumpet, calling you out of that purgatory. It's time to forgive and release yourself from what has been haunting you. Step forward into the light of absolution—this is your rebirth, where you rise above old pain and claim the peace that is yours."
   },
   {
-    "aura_id": "root",
-    "aura_label": "Root",
-    "aura_keywords": [
-      "grounding",
-      "resilience",
-      "stability"
-    ],
+    "aura_id": "shade",
+    "aura_label": "Shade",
+    "aura_keywords": ["melancholic", "introspective", "protective", "calm"],
+    "aura_description": "You carry a comforting shade within—an introspective dusk that softens the world’s harsh light.",
     "card": "The World",
-    "card_keywords": [
-      "completion",
-      "wholeness",
-      "arrival"
-    ],
-    "message": "The The World meets the Root aura \u2014 a moment shaped by grounding and completion. Trust what's rising."
+    "card_keywords": ["completion", "wholeness", "fulfillment", "unity", "achievement", "integration"],
+    "message": "You traveled through a lot of darkness to reach this dawn of completion. Shade and The World acknowledge the beauty in finally finding wholeness after struggle. Every shadow you embraced, every challenge you endured has helped complete the picture of who you are. Now you stand at the end of this journey, wiser and whole—take a breath and savor the completeness, knowing both light and dark have their place in you."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Fool",
-    "card_keywords": [
-      "beginning",
-      "innocence",
-      "openness"
-    ],
-    "message": "The The Fool meets the Drift aura \u2014 a moment shaped by flow and beginning. Trust what's rising."
+    "card_keywords": ["wide-eyed wonder", "reckless innocence", "spontaneity", "faith", "freedom", "potential"],
+    "message": "You're glowing with the excitement of a new possibility. Glow and The Fool are like sunrise on an open road, filling you with hope and wanderlust. Your optimism is a trusty compass as you take this leap. Embrace the freedom—this journey is yours to revel in."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Magician",
-    "card_keywords": [
-      "potential",
-      "power",
-      "creation"
-    ],
-    "message": "The The Magician meets the Drift aura \u2014 a moment shaped by flow and potential. Trust what's rising."
+    "card_keywords": ["creative will", "focused intention", "resourcefulness", "confidence", "alchemy", "manifestation"],
+    "message": "You shine with confident potential, and all the universe seems to respond. Glow and The Magician spark a charismatic energy that turns your ideas into reality. Your optimism itself is a tool of creation, attracting the resources you need. Stand in that light of yours—you have everything it takes to make real magic happen."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The High Priestess",
-    "card_keywords": [
-      "intuition",
-      "mystery",
-      "depth"
-    ],
-    "message": "The The High Priestess meets the Drift aura \u2014 a moment shaped by flow and intuition. Trust what's rising."
+    "card_keywords": ["intuition", "inner knowing", "mystery", "hidden truth", "serenity", "sacred feminine"],
+    "message": "Even in your bright optimism, there's a quiet undercurrent guiding you. Glow and The High Priestess meld light and shadow, suggesting that your joy and your intuition are working hand in hand. Behind your radiant outlook, your subconscious is gently steering, offering subtle hints through gut feelings. Keep shining, but also listen to that soft inner whisper—it knows the truth beneath the sunshine."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Empress",
-    "card_keywords": [
-      "nurture",
-      "abundance",
-      "creativity"
-    ],
-    "message": "The The Empress meets the Drift aura \u2014 a moment shaped by flow and nurture. Trust what's rising."
+    "card_keywords": ["nurturing", "fertility", "abundance", "sensuality", "creativity", "warmth"],
+    "message": "Your warmth lights up the world around you. Glow and The Empress make everything more vibrant and alive in your presence. You’re radiating love and creative energy, and others can feel that nurturing glow. Bask in it—this moment is rich with beauty and connection, and it's all blossoming because of you."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Emperor",
-    "card_keywords": [
-      "structure",
-      "authority",
-      "protection"
-    ],
-    "message": "The The Emperor meets the Drift aura \u2014 a moment shaped by flow and structure. Trust what's rising."
+    "card_keywords": ["authority", "structure", "stability", "discipline", "protection", "ambition"],
+    "message": "Your confidence is shining, and it's time to take the throne of your own life. Glow and The Emperor give you both warmth and authority. With your radiant optimism and a solid plan, you can lead yourself and even others to success. Don’t shy away from power—wield it with kindness and you'll create something enduring and good."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Hierophant",
-    "card_keywords": [
-      "tradition",
-      "wisdom",
-      "guidance"
-    ],
-    "message": "The The Hierophant meets the Drift aura \u2014 a moment shaped by flow and tradition. Trust what's rising."
+    "card_keywords": ["tradition", "guidance", "wisdom", "conformity", "ritual", "faith"],
+    "message": "Your positive spirit is contagious, and it might be inspiring others more than you know. Glow and The Hierophant suggest you channel that light into something meaningful and enduring. Maybe you become a guide or seek one—either way, connecting with a tradition or community could amplify your warmth. Your optimism paired with age-old wisdom is a beacon; it can light the way for you and those around you."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Lovers",
-    "card_keywords": [
-      "connection",
-      "choice",
-      "intimacy"
-    ],
-    "message": "The The Lovers meets the Drift aura \u2014 a moment shaped by flow and connection. Trust what's rising."
+    "card_keywords": ["love", "partnership", "harmony", "desire", "choice", "alignment"],
+    "message": "Your heart shines brightly, drawing love toward you like a beacon. Glow and The Lovers create an open, joyful space for union. Your optimism and warmth make it easy for others to love you deeply, and to love yourself. Enjoy this harmony—it's a vibrant dance of two souls (or of you with your own spirit) coming together in truth and affection."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Chariot",
-    "card_keywords": [
-      "willpower",
-      "motion",
-      "victory"
-    ],
-    "message": "The The Chariot meets the Drift aura \u2014 a moment shaped by flow and willpower. Trust what's rising."
+    "card_keywords": ["determination", "victory", "momentum", "focus", "drive", "control"],
+    "message": "Your optimism is on full throttle, ready to drive you toward success. Glow and The Chariot form a bright locomotive force in your life. With confidence and clear direction, you can move mountains right now. Stay focused on the road ahead and keep shining—victory is not just possible, it's likely if you believe in your path."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "Strength",
-    "card_keywords": [
-      "courage",
-      "patience",
-      "inner power"
-    ],
-    "message": "The Strength meets the Drift aura \u2014 a moment shaped by flow and courage. Trust what's rising."
+    "card_keywords": ["courage", "compassion", "inner strength", "patience", "gentleness", "resilience"],
+    "message": "Your lighthearted spirit is backed by a surprisingly strong core. Glow and Strength prove that kindness and positivity can be mighty. You've learned how to face difficulties with a smile and calm determination, shining through the worst of it. Keep radiating that gentle courage—it gives others hope and reminds you of the brave heart you carry."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Hermit",
-    "card_keywords": [
-      "solitude",
-      "reflection",
-      "wisdom"
-    ],
-    "message": "The The Hermit meets the Drift aura \u2014 a moment shaped by flow and solitude. Trust what's rising."
+    "card_keywords": ["solitude", "introspection", "wisdom", "guidance", "reflection", "inner light"],
+    "message": "You're usually a light for others, but now it's time to shine that light inward. Glow and The Hermit guide you to a peaceful retreat within yourself. Solitude might feel strange for someone so outgoing, but even the sun sets to rejuvenate. Embracing a little alone time now will deepen your inner glow, so you can return to the world with even more warmth and wisdom."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "Wheel of Fortune",
-    "card_keywords": [
-      "change",
-      "fate",
-      "cycles"
-    ],
-    "message": "The Wheel of Fortune meets the Drift aura \u2014 a moment shaped by flow and change. Trust what's rising."
+    "card_keywords": ["destiny", "change", "cycles", "fate", "chance", "turning point"],
+    "message": "Your optimistic glow is attracting a turn of good fortune. Glow and Wheel of Fortune spin together, indicating a positive shift in your story. The brightness you carry has a way of influencing fate itself, drawing opportunities toward you like a magnet. Stay open and gracious as things change—chance is on your side, and it may lead you somewhere brilliant and new."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "Justice",
-    "card_keywords": [
-      "balance",
-      "truth",
-      "accountability"
-    ],
-    "message": "The Justice meets the Drift aura \u2014 a moment shaped by flow and balance. Trust what's rising."
+    "card_keywords": ["fairness", "truth", "balance", "karma", "accountability", "integrity"],
+    "message": "Your shining optimism makes you naturally want to see fairness prevail. Glow and Justice together inspire you to stand up for what’s right with kindness. You have the ability to bring light to injustice and balance to chaos, simply by staying true to your values. Keep radiating honesty and integrity—your positivity combined with fairness can gently set things right around you."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Hanged Man",
-    "card_keywords": [
-      "pause",
-      "sacrifice",
-      "perspective"
-    ],
-    "message": "The The Hanged Man meets the Drift aura \u2014 a moment shaped by flow and pause. Trust what's rising."
+    "card_keywords": ["surrender", "letting go", "patience", "new perspective", "sacrifice", "acceptance"],
+    "message": "Your natural impulse is to keep shining and doing, but right now you might feel life put on hold. Glow and The Hanged Man together say it's okay to simply exist without progress for a bit. Even a bright light can take a break—think of a sunset pausing at twilight before a new dawn. For now, trust that it's okay not to have all the answers; your gentle radiance will guide you until morning."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "Death",
-    "card_keywords": [
-      "endings",
-      "rebirth",
-      "release"
-    ],
-    "message": "The Death meets the Drift aura \u2014 a moment shaped by flow and endings. Trust what's rising."
+    "card_keywords": ["transformation", "ending", "rebirth", "letting go", "inevitable change", "transition"],
+    "message": "Your natural positivity might be challenged by a loss or ending, and that's okay. Glow and Death teach that even the brightest life has sunsets. You can still hold hope in your heart while honoring the need to let go—think of it as the sun setting to rise again. Embrace the ending with grace; your optimism will carry through the night and light a new dawn when you're ready."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "Temperance",
-    "card_keywords": [
-      "harmony",
-      "patience",
-      "moderation"
-    ],
-    "message": "The Temperance meets the Drift aura \u2014 a moment shaped by flow and harmony. Trust what's rising."
+    "card_keywords": ["balance", "moderation", "harmony", "healing", "patience", "blending"],
+    "message": "You're brimming with positive energy, and the key now is to channel it steadily. Glow and Temperance mix enthusiasm with patience. It's like blending vibrant colors into a soft pastel—you don't lose your brightness, you just make it easier on yourself and others. By pacing your joy and efforts, you create a lasting harmony in life; your inner light becomes a healing balm instead of a fleeting flash."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Devil",
-    "card_keywords": [
-      "attachment",
-      "shadow",
-      "desire"
-    ],
-    "message": "The The Devil meets the Drift aura \u2014 a moment shaped by flow and attachment. Trust what's rising."
+    "card_keywords": ["temptation", "addiction", "materialism", "desire", "bondage", "shadow self"],
+    "message": "Your bright spirit is wonderful, but be careful not to let a sweet smile hide a secret trap. Glow and The Devil hint that even in the light, a shadow can lurk in the form of temptation or denial. You might be drawn to something that seems fun or comforting but isn't truly good for you. Stay mindful—keeping your shine doesn't mean ignoring the dark parts; face them with honesty so you can stay truly free and radiant."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Tower",
-    "card_keywords": [
-      "disruption",
-      "awakening",
-      "collapse"
-    ],
-    "message": "The The Tower meets the Drift aura \u2014 a moment shaped by flow and disruption. Trust what's rising."
+    "card_keywords": ["upheaval", "revelation", "chaos", "collapse", "awakening", "breakdown"],
+    "message": "Your life has been bright and steady, which makes this sudden crash feel even more unreal. Glow and The Tower show that even the warmest days can be interrupted by a thunderbolt. It's okay to feel shaken; something you relied on might be falling apart. But your inner light isn’t extinguished—use it to navigate the rubble, and you'll find that this disruption, though difficult, will lead to new clarity and strength in you."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Star",
-    "card_keywords": [
-      "hope",
-      "healing",
-      "renewal"
-    ],
-    "message": "The The Star meets the Drift aura \u2014 a moment shaped by flow and hope. Trust what's rising."
+    "card_keywords": ["hope", "guidance", "inspiration", "serenity", "healing", "faith"],
+    "message": "Your spirit glimmers with optimism, and The Star amplifies that into a guiding light. Glow and The Star together are like a beacon of hope—for you and for those around you. You've poured out so much warmth, and now the universe pours a little back into you, refilling your well of faith. Cherish this time of inspiration and calm healing; it's the spark that will keep your dreams alive and shining."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Moon",
-    "card_keywords": [
-      "illusion",
-      "emotion",
-      "intuition"
-    ],
-    "message": "The The Moon meets the Drift aura \u2014 a moment shaped by flow and illusion. Trust what's rising."
+    "card_keywords": ["mystery", "intuition", "soft fear", "shadow", "depth", "fluidity"],
+    "message": "Your usual brightness has dimmed into a soft glow under The Moon's mysterious light. Glow and The Moon together wrap you in a dreamy, unsure feeling. Even someone as positive as you can feel uneasy when the path is lit only by intuition. For now, trust that it's okay not to have all the answers; your gentle radiance will guide you until morning."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The Sun",
-    "card_keywords": [
-      "joy",
-      "vitality",
-      "truth"
-    ],
-    "message": "The The Sun meets the Drift aura \u2014 a moment shaped by flow and joy. Trust what's rising."
+    "card_keywords": ["joy", "positivity", "success", "vitality", "clarity", "warmth"],
+    "message": "Your light meets the light of the Sun—it’s brilliance on brilliance. Glow and The Sun mean you’re positively radiant now, inside and out. Everything you touch seems to turn to gold under this warmth and clarity. Enjoy the abundance of this moment, and spread it around generously—your sunshine spirit is a gift to everyone, especially yourself."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
-    "card": "Judgement",
-    "card_keywords": [
-      "reckoning",
-      "rebirth",
-      "clarity"
-    ],
-    "message": "The Judgement meets the Drift aura \u2014 a moment shaped by flow and reckoning. Trust what's rising."
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
+    "card": "Judgment",
+    "card_keywords": ["awakening", "rebirth", "reckoning", "forgiveness", "inner calling", "liberation"],
+    "message": "Your spirit has always shone brightly, and now it's being called to shine in a new way. Glow and Judgment indicate an awakening to your true purpose. You might feel an inner trumpet sounding—urging you to step up, to let the old you fall away and embrace a more inspired path. Trust this calling; it's a chance to use your light not just for joy, but for something deeply meaningful that you've been meant to do all along."
   },
   {
-    "aura_id": "drift",
-    "aura_label": "Drift",
-    "aura_keywords": [
-      "flow",
-      "surrender",
-      "dream"
-    ],
+    "aura_id": "glow",
+    "aura_label": "Glow",
+    "aura_keywords": ["radiant", "optimistic", "warm", "uplifting"],
+    "aura_description": "Your aura glows like a gentle sunrise, warm and optimistic, lifting the spirits of those around you.",
     "card": "The World",
-    "card_keywords": [
-      "completion",
-      "wholeness",
-      "arrival"
-    ],
-    "message": "The The World meets the Drift aura \u2014 a moment shaped by flow and completion. Trust what's rising."
+    "card_keywords": ["completion", "wholeness", "fulfillment", "unity", "achievement", "integration"],
+    "message": "Your light has touched every corner of your life, and now everything comes together in a brilliant finale. Glow and The World are a standing ovation from the universe. You've achieved a beautiful balance and fulfillment; it's like the end of a grand film where all the scenes weave into a complete story. Take your bow and enjoy this sense of unity and accomplishment—your journey has come full circle, and it shines."
   }
 ]
